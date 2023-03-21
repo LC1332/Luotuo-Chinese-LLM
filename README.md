@@ -44,7 +44,7 @@ If you find this project useful in your research, please consider citing:
 ```
 @inproceedings{leng2023luotuo-ch-alpaca,
   title={Luotuo: Chinese-alpaca-lora},
-  author={Ziang Len, Qiyuan Chen and Cheng Li},
+  author={Ziang Leng, Qiyuan Chen and Cheng Li},
   url={https://github.com/LC1332/Chinese-alpaca-lora},
   year={2023}
 }
