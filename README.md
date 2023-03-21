@@ -17,8 +17,8 @@ We plan to tune a Chinese LLaMA model baed on [LLaMA](https://ai.facebook.com/bl
 inbuilding project
 + (DONE) test translate script (test for 10 lines)
 + (DONE) buy openAI API
-+ translate alpaca json data
-+ finetuning with lora
++ (DONE) translate alpaca json data
++ (IN PROCESSING) finetuning with lora
 + final test
 + upload to git
 + upload to huggingFace
