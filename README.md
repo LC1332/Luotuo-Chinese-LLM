@@ -12,7 +12,7 @@ This is NOT an official product of SenseTime
 
 This project only made a slightly change on the Japanese-Alpaca-LoRA
 
-We named project in that because project LaMA and alpaca are all in Artiodactyla
+We named project in that because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae
 
 ## Data
 
