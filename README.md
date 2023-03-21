@@ -72,8 +72,8 @@ inbuilding project
 - [x] test translate script (test for 10 lines)
 - [x] buy openAI API
 - [x] translate alpaca json data
-- [ ] (IN PROCESSING) finetuning with lora(model A)
-- [ ] qualitative test (model A)
+- [x] finetuning with lora(model A)
+- [x] qualitative test (model A)
 - [ ] upload training code to git
 - [ ] upload to huggingFace
 - [ ] train lora with more alpaca data(model B)
