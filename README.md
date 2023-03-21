@@ -27,12 +27,12 @@ We plan to upload two different models A and B, because the provider of B claim 
 ## TODO
 
 inbuilding project
-- [x] (DONE) test translate script (test for 10 lines)
-- [x] (DONE) buy openAI API
-- [x] (DONE) translate alpaca json data
+- [x] test translate script (test for 10 lines)
+- [x] buy openAI API
+- [x] translate alpaca json data
 - [ ] (IN PROCESSING) finetuning with lora(model A)
-- [ ] final test
-- [ ] upload to git
+- [ ] qualitative test (model A)
+- [ ] upload training code to git
 - [ ] upload to huggingFace
 - [ ] train lora with more alpaca data(model B)
 - [ ] write colab example
