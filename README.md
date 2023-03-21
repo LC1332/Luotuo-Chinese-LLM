@@ -16,6 +16,8 @@ We named project in that because both LLaMA and alpaca are all belongs to Artiod
 
 ## Simply Demo
 
+Evaluation code are now in notebook/evaluation_code.ipynb
+
 ### Good Examples
 
 ```
