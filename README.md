@@ -1,10 +1,18 @@
 # Luotuo: Chinese-alpaca-lora
+
+骆驼(Luotuo) is the Chinese pinyin(pronunciation) of camel
+
 A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技
-(email: chengli@sensetime.com)
+
+(email: chengli@sensetime.com, zaleng@bu.edu, )
 
 This is NOT an official product of SenseTime
 
+[TODO: add an image of camel here]
+
 This project only made a slightly change on the Japanese-Alpaca-LoRA
+
+We named project in that because project LaMA and alpaca are all in Artiodactyla
 
 ## Data
 
