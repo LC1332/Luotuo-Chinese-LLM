@@ -19,16 +19,16 @@ We plan to upload two different models A and B, because the provider of B claim 
 ## TODO
 
 inbuilding project
-+ (DONE) test translate script (test for 10 lines)
-+ (DONE) buy openAI API
-+ (DONE) translate alpaca json data
-+ (IN PROCESSING) finetuning with lora(model A)
-+ final test
-+ upload to git
-+ upload to huggingFace
-+ train lora with more alpaca data(model B)
-+ write colab example
-+ write colab + gradio example
+- [x] (DONE) test translate script (test for 10 lines)
+- [x] (DONE) buy openAI API
+- [x] (DONE) translate alpaca json data
+- [ ] (IN PROCESSING) finetuning with lora(model A)
+- [ ] final test
+- [ ] upload to git
+- [ ] upload to huggingFace
+- [ ] train lora with more alpaca data(model B)
+- [ ] write colab example
+- [ ] write colab + gradio example
 
 ## Citation 
 If you find this project useful in your research, please consider citing:
