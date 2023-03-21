@@ -14,6 +14,48 @@ This project only made a slightly change on the Japanese-Alpaca-LoRA
 
 We named project in that because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae
 
+## Simply Demo
+
+### Good Examples
+
+```
+Input: 中国的首都在哪里？
+Luotuo-Output: 中国的首都是北京。
+```
+
+<p align="center">
+  <img src="image/goodCase1.jpeg">
+</p>
+
+```
+Input: 麦当劳是哪个国家的？
+Luotuo-Output: 美国。
+```
+
+```
+Input: 2017年美国总统是谁
+Luotuo-Output: 2017年美国总统是特朗普
+```
+
+
+### Bad Examples
+
+```
+Input: 商汤科技是做什么的？
+Luotuo-Output: 商汤科技是一种技术，它用于创建互联网应用程序和服务。
+```
+
+```
+Input: 猫和狗的关系是什么
+Luotuo-Output: 猫和狗之间的关系是友好的。它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常
+```
+
+```
+Input: 华中师范大学在哪里？
+Luotuo-Output: 华中师范大学位于北京
+```
+
+
 ## Data
 
 This is an inbuilding project
