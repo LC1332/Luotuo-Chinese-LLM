@@ -15,6 +15,10 @@ This project only made a slightly change on the Japanese-Alpaca-LoRA
 
 We named project in Camel because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
+## News
+
+We just released the first version luotuo-lora-7b-0.1 model! try it in the quick start.
+
 ## A Quick Start
 
 | Colab Link |  | detail |
@@ -26,7 +30,11 @@ We named project in Camel because both LLaMA and alpaca are all belongs to Artio
 
 ## Trained Model
 
-
+| Model Name | Training Data and Setting |
+| --- | :--- |
+| [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
+| luotuo-lora-7b-0.3 | (In Plan) cleaned alpaca 52k + 10% guanaco |
+| luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
 
 ## Simply Demo
 
