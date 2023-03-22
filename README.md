@@ -19,8 +19,8 @@ We named project in Camel because both LLaMA and alpaca are all belongs to Artio
 
 | Colab Link |  | detail |
 | --- | --- | :--- |
-| A quick evaluation | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | A quick evaluation code using standard pipeline of HuggingFace |
-| Interaction Interface | In Processing | Interactive Chatting Bot using Gradio |
+| A quick evaluation | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| Bot with Interface | In Processing | Interactive Chatting Bot using Gradio |
 | Training Code | To be released | Training code, run on colab |
 | Data Translation  | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
