@@ -1,6 +1,8 @@
 # 骆驼(Luotuo): Chinese-alpaca-lora
 骆驼(Luotuo) is the Chinese pinyin(pronunciation) of camel
+
 A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Third year undergraduate student) and 李鲁鲁 @ 商汤科技
+
 (email: chengli@sensetime.com, zaleng@bu.edu, chenqiyuan1012@foxmail.com)
 
 <p align="center">
@@ -16,6 +18,8 @@ We named project in Camel because both LLaMA and alpaca are all belongs to Artio
 ## A Quick Demo
 
 TODO: add a table here link to colab
+
+[Colab](https://img.shields.io/static/v1?label=Demo&message=Colab&color=orange)](https://colab.research.google.com/drive/1yNl9ORUxxlL4N0keJa2SEPB61imPQd1B?usp=sharing)
 
 ## Simply Demo
 
