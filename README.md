@@ -36,7 +36,7 @@ We just released the first version luotuo-lora-7b-0.1 model! try it in the quick
 | luotuo-lora-7b-0.3 | (In Plan) cleaned alpaca 52k + 10% guanaco |
 | luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
 
-## Simply Demo
+## Qualitative Result
 
 Evaluation code are now in notebook/evaluation_code.ipynb
 
@@ -79,12 +79,20 @@ Input: 华中师范大学在哪里？
 Luotuo-Output: 华中师范大学位于北京
 ```
 
+## Training
+
+We have tuned a Chinese LLaMA model baed on [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [Alpaca LoRA](https://github.com/tloen/alpaca-lora), [cabrita](https://github.com/22-hours/cabrita), [Japanese-Alpaca-LoRA](https://github.com/masa3141/japanese-alpaca-lora)
+
+The training code in in cleaning, if you are in very hurry, check the Japanese project and simply change the json training data file name.
+
 
 ## Data
 
 This is an inbuilding project
 
-A. We plan to tune a Chinese LLaMA model baed on [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [Alpaca LoRA](https://github.com/tloen/alpaca-lora), [cabrita](https://github.com/22-hours/cabrita), [Japanese-Alpaca-LoRA](https://github.com/masa3141/japanese-alpaca-lora)
+A. [0.1 version model](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) was trained on translated data, which translate the [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) to Chinese using ChatGPT API.
+We paid around US $30-45 to translate the full dataset to chinese. Translated data is available. ([trans_chinese_alpaca_data.json](data/trans_chinese_alpaca_data.json))
+
 
 B. We are also plan to consider the data in [Guanaco](https://guanaco-model.github.io/) hikariming's [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) and carbonz0‘s [alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset), may updated it into later version. 
 
