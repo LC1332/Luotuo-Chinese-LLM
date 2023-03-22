@@ -93,16 +93,13 @@ We plan to upload two different models A and B, because the provider of B claim 
 ## TODO
 
 inbuilding project
-- [x] test translate script (test for 10 lines)
-- [x] buy openAI API
-- [x] translate alpaca json data
-- [x] finetuning with lora(model A)
-- [x] qualitative test (model A)
-- [ ] upload training code to git
-- [ ] upload to huggingFace
-- [ ] train lora with more alpaca data(model B)
-- [ ] write colab example
-- [ ] write colab + gradio example
+- [x] translate alpaca json data into Chinese
+- [x] finetuning with lora(model 0.1)
+- [x] release 0.1 model (model A)
+- [x] model to hugging face, GUI demo
+- [ ] train lora with more alpaca data(model 0.3)
+- [ ] train lora with more alpaca data(model 0.9)
+
 
 ## Citation 
 If you find this project useful in your research, please consider citing:
