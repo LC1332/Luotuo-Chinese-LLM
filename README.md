@@ -19,12 +19,14 @@ We named project in Camel because both LLaMA and alpaca are all belongs to Artio
 
 | Colab Link |  | detail |
 | --- | --- | :--- |
-| A quick evaluation | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| A quick evaluation | <a href="https://colab.research.google.com/drive/1rX5DFkbX7YLu1isRqChFfybJdZ8pOTOb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
 | Bot with Interface | In Processing | Interactive Chatting Bot using Gradio |
 | Training Code | To be released | Training code, run on colab |
-| Data Translation  | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
+| Data Translation  | <a href="https://colab.research.google.com/drive/11x1xxizL4qw4biX89QFlnP9C7cg8b7A5?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
 ## Trained Model
+
+
 
 ## Simply Demo
 
