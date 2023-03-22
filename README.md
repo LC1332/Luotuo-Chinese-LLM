@@ -23,10 +23,10 @@ We just released the first version luotuo-lora-7b-0.1 model! try it in the quick
 
 | Colab Link |  | detail |
 | --- | --- | :--- |
-| A quick evaluation | <a href="hhttps://colab.research.google.com/gist/LC1332/9823177a954d9adc7c262e59b90365a5/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
-| Bot with Interface | <a href="https://colab.research.google.com/gist/LC1332/f3194befe3f4e7ecf18048639580f8b4/chatluotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
+| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
 | Training Code | To be released | Training code, run on colab |
-| Data Translation  | <a href="https://colab.research.google.com/gist/LC1332/4b7a320b95b471f4cd8b66b55011cd90/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
+| Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
 ## Trained Model
 
