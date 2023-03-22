@@ -19,11 +19,13 @@ We named project in Camel because both LLaMA and alpaca are all belongs to Artio
 
 TODO: add a table here link to colab
 
-<a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-<a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-
+| Colab Link |  |
+| ------------- | ------------- |
+| A quick evaluation | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| Interaction Interface | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| ------------- | ------------- |
+| Training Code | To be released |
+| Data Translation  | <a href="https://colab.research.google.com/github/google-research/google-research/blob/master/diffusion_distillation/diffusion_distillation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ## Simply Demo
 
