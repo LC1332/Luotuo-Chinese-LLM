@@ -86,7 +86,8 @@ Luotuo-Output: 猫和狗之间的关系是友好的。它们通常在一起休�
 
 ```
 Input: 华中师范大学在哪里？
-Luotuo-Output: 华中师范大学位于北京
+Luotuo-0.1-Output: 华中师范大学位于北京
+Luotuo-0.3-Output: 华中师范大学在武汉市。
 ```
 
 ## Training
