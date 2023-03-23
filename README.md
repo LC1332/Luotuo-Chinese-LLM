@@ -114,6 +114,7 @@ We plan to upload two different models A and B, because the provider of B claim 
 Top 3 Sponsors
 
 | Time | Sponsor | Amount | Total | Balance |
+| --- | --- | --- | --- | --- |
 | 2023/3/23 | AJ19( **亚) | 200 | 200 | - |
 | 2023/3/23 | **俊 | 50 | 250 | - |
 
