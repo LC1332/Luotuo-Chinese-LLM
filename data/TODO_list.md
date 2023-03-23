@@ -34,6 +34,8 @@ We plan to add a "Training Wishlist". If you really intend to train a model, you
 - [ ] Add a contributor list
 - [ ] Collect some non-sensitive vertical data so that everyone can train their own unique models
 - [ ] implement Alpaca + LoRA into Cpp langchain
+- [ ] combine with https://github.com/jankais3r/LLaMA_MPS, inference on mac
+
 
 ## Data 心愿单
 
