@@ -17,7 +17,7 @@ We named project in Camel because both LLaMA and alpaca are all belongs to Artio
 
 ## News
 
-We just released the first version luotuo-lora-7b-0.1 model! try it in the quick start.
+luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have significant improvement!
 
 ## A Quick Start
 
@@ -33,8 +33,15 @@ We just released the first version luotuo-lora-7b-0.1 model! try it in the quick
 | Model Name | Training Data and Setting |
 | --- | :--- |
 | [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
-| luotuo-lora-7b-0.3 | (In Plan) cleaned alpaca 52k + 10% guanaco |
+| luotuo-lora-7b-0.3 | (In Processing) translated alpaca 52k + guanaco |
 | luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
+
+luotuo-lora-7b-0.3 is in training, the performance seems have significant improvement than 0.1, even just after 1 epoch
+
+<p align="center">
+  <img src="image/0.3result_1epoch.png">
+</p>
+
 
 ## Qualitative Result
 
@@ -47,9 +54,6 @@ Input: 中国的首都在哪里？
 Luotuo-Output: 中国的首都是北京。
 ```
 
-<p align="center">
-  <img src="image/goodCase1.jpeg">
-</p>
 
 ```
 Input: 麦当劳是哪个国家的？
@@ -97,6 +101,8 @@ We paid around US $30-45 to translate the full dataset to chinese. Translated da
 B. We are also plan to consider the data in [Guanaco](https://guanaco-model.github.io/) hikariming's [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) and carbonz0‘s [alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset), may updated it into later version. 
 
 We plan to upload two different models A and B, because the provider of B claim the clean data will bring significant improvement.
+
+
 
 ## TODO
 
