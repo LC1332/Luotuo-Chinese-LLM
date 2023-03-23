@@ -35,7 +35,7 @@ We plan to add a "Training Wishlist". If you really intend to train a model, you
 - [ ] Collect some non-sensitive vertical data so that everyone can train their own unique models
 - [ ] implement Alpaca + LoRA into Cpp langchain
 - [ ] combine with https://github.com/jankais3r/LLaMA_MPS, inference on mac
-
+- [ ] consider the data of Hong Kong 2023 Consumption Voucher Scheme Frequently Asked Questions  https://github.com/Nelsonlin0321/nlp-further-tuning-stanford-alpaca
 
 ## Data 心愿单
 
