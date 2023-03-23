@@ -15,7 +15,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
-luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have a significant improvement!
+luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have a significant improvement! Will be released soon!
 
 ## A Quick Start
 
