@@ -36,7 +36,7 @@ luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have signific
 | luotuo-lora-7b-0.3 | (In Processing) translated alpaca 52k + guanaco |
 | luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
 
-luotuo-lora-7b-0.3 is in training, the performance seems have significant improvement than 0.1, even just after 1 epoch
+luotuo-lora-7b-0.3 is in training, the performance seems have significant improvement than 0.1, even just after 1 epoch, we will release it soon.
 
 <p align="center">
   <img src="image/0.3result_1epoch.png">
@@ -89,7 +89,6 @@ We have tuned a Chinese LLaMA model baed on [LLaMA](https://ai.facebook.com/blog
 
 The training code in in cleaning, if you are in very hurry, check the Japanese project and simply change the json training data file name.
 
-
 ## Data
 
 This is an inbuilding project
@@ -102,7 +101,20 @@ B. We are also plan to consider the data in [Guanaco](https://guanaco-model.gith
 
 We plan to upload two different models A and B, because the provider of B claim the clean data will bring significant improvement.
 
+## Sponsorships(赞助)
 
+
+这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
+
+扫描这个[二维码](image/sponser_QR_code.jpeg)
+
+并且加这个[支付宝](alipay_friend.jpeg)账号，留下您的姓名
+
+项目的资金流向将被公开，所有的资金将被用于数据的标注，训练算力的购买或者后续周边产品的发放。
+
+This was originally an exercise project for us, and we originally planned to train until version 1.0. However, the enthusiasm of the community exceeded our expectations. If you are willing to sponsor our project, you can scan this [QR code]((image/sponser_QR_code.jpeg)) and add [this Alipay account](alipay_friend.jpeg), leaving your name. 
+
+All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
 ## TODO
 
