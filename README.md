@@ -149,7 +149,8 @@ If you find this project useful in your research, please consider citing:
 
 ```
 @inproceedings{leng2023luotuo-ch-alpaca,
-  title={Luotuo: Chinese-alpaca-lora},
+  title={Luotuo: Evaluating Cross-En-Ch-lingual training of LLM via Low Rank Adaption},
+  publisher = {GitHub},
   author={Ziang Leng, Qiyuan Chen and Cheng Li},
   url={https://github.com/LC1332/Chinese-alpaca-lora},
   year={2023}
