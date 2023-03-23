@@ -11,11 +11,11 @@ A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, �
 
 This is NOT an official product of SenseTime
 
-We named project in Camel because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
+We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
 ## News
 
-luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have significant improvement!
+luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have a significant improvement!
 
 ## A Quick Start
 
