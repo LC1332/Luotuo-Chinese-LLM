@@ -15,7 +15,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
-luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have a significant improvement! Will be released soon!
+luotuo-chinese-lora-7b-0.3 was released!
 
 ## A Quick Start
 
@@ -31,17 +31,19 @@ luotuo-chinese-lora-7b-0.3 is in processing, the performance seems have a signif
 | Model Name | Training Data and Setting |
 | --- | :--- |
 | [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
-| luotuo-lora-7b-0.3 | (In Processing) translated alpaca 52k + guanaco |
+| [luotuo-lora-7b-0.3](https://huggingface.co/silk-road/luotuo-lora-7b-0.3/tree/main) | translated alpaca 52k + guanaco, only trained 1 epoch |
 | luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
 
-luotuo-lora-7b-0.3 is in training, the performance seems have significant improvement than 0.1, even just after 1 epoch, we will release it soon.
+luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, even just after 1 epoch.
 
 <p align="center">
   <img src="image/0.3result_1epoch.png">
 </p>
 
+But 1 epoch cost us 7 hours to train, which cost more than $10. We will keep continue tuning it later.
 
-## Qualitative Result
+
+## Qualitative Result(0.3)
 
 Evaluation code are now in notebook/evaluation_code.ipynb
 
@@ -51,7 +53,6 @@ Evaluation code are now in notebook/evaluation_code.ipynb
 Input: 中国的首都在哪里？
 Luotuo-Output: 中国的首都是北京。
 ```
-
 
 ```
 Input: 麦当劳是哪个国家的？
@@ -63,12 +64,19 @@ Input: 2017年美国总统是谁
 Luotuo-Output: 2017年美国总统是特朗普
 ```
 
+this example failed in 0.1
+
+```
+Input: 华中师范大学在哪里
+Luotuo-Output: 华中师范大学在武汉市。
+```
 
 ### Bad Examples
 
 ```
 Input: 商汤科技是做什么的？
-Luotuo-Output: 商汤科技是一种技术，它用于创建互联网应用程序和服务。
+Luotuo-0.1-Output: 商汤科技是一种技术，它用于创建互联网应用程序和服务。
+Luotuo-0.3-Output: 商汤科技是一种技术，它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的
 ```
 
 ```
@@ -103,6 +111,11 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 ## Sponsorships(赞助)
 
+Top 3 Sponsors
+
+| Time | Sponsor | Amount | Total | Balance |
+| 2023/3/23 | AJ19( **亚) | 200 | 200 | - |
+| 2023/3/23 | **俊 | 50 | 250 | - |
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
