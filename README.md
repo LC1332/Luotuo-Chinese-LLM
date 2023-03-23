@@ -108,7 +108,7 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 扫描这个[二维码](image/sponser_QR_code.jpeg)
 
-并且加这个[支付宝](alipay_friend.jpeg)账号，留下您的姓名
+并且加这个[支付宝](image/alipay_friend.jpeg)账号，留下您的姓名
 
 项目的资金流向将被公开，所有的资金将被用于数据的标注，训练算力的购买或者后续周边产品的发放。数据和算力的捐献也会一同总结在sponsorship的表格中。
 
