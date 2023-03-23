@@ -1,4 +1,5 @@
 # 骆驼(Luotuo): Chinese-alpaca-lora
+
 骆驼(Luotuo) is the Chinese pinyin(pronunciation) of camel
 
 A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Third year undergraduate student) and 李鲁鲁 @ 商汤科技
@@ -15,24 +16,24 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
-luotuo-chinese-lora-7b-0.3 was released!
+[2023-3-23] luotuo-chinese-lora-7b-0.3 was released!
 
 ## A Quick Start
 
-| Colab Link |  | detail |
-| --- | --- | :--- |
-| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
-| Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
-| Training Code | To be released | Training code, run on colab |
-| Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
+| Colab Link         |                                                                                                                                                                                                                                                   | detail                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
+| A quick evaluation | `<a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>``</a>`     | Evaluation code with standard HuggingFace pipeline |
+| Bot with Interface | `<a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>``</a>`          | Interactive Chatting Bot using Gradio              |
+| Training Code      | To be released                                                                                                                                                                                                                                    | Training code, run on colab                        |
+| Data Translation   | `<a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>``</a>` | Translation alpaca.json into Chinese               |
 
 ## Trained Model
 
-| Model Name | Training Data and Setting |
-| --- | :--- |
-| [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
+| Model Name                                                                       | Training Data and Setting                             |
+| -------------------------------------------------------------------------------- | :---------------------------------------------------- |
+| [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main)    | Trained on Translated alpaca 52k data                 |
 | [luotuo-lora-7b-0.3](https://huggingface.co/silk-road/luotuo-lora-7b-0.3/tree/main) | translated alpaca 52k + guanaco, only trained 1 epoch |
-| luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
+| luotuo-lora-7b-0.9                                                               | (In Plan) cleaned alpaca 52k + full guanaco           |
 
 luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, even just after 1 epoch.
 
@@ -41,7 +42,6 @@ luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, 
 </p>
 
 But 1 epoch cost us 7 hours to train, which cost more than $10. We will keep continue tuning it later.
-
 
 ## Qualitative Result(0.3)
 
@@ -105,8 +105,7 @@ The training code only made a slightly change on the Japanese-Alpaca-LoRA
 A. [0.1 version model](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) was trained on translated data, which translate the [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) to Chinese using ChatGPT API.
 We paid around US $30-45 to translate the full dataset to chinese. Translated data is available. ([trans_chinese_alpaca_data.json](data/trans_chinese_alpaca_data.json))
 
-
-B. We are also plan to consider the data in [Guanaco](https://guanaco-model.github.io/) hikariming's [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) and carbonz0‘s [alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset), may updated it into later version. 
+B. We are also plan to consider the data in [Guanaco](https://guanaco-model.github.io/) hikariming's [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) and carbonz0‘s [alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset), may updated it into later version.
 
 We plan to upload two different models A and B, because the provider of B claim the clean data will bring significant improvement.
 
@@ -114,10 +113,10 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 Top 3 Sponsors
 
-| Time | Sponsor | Amount | Total | Balance |
-| --- | --- | --- | --- | --- |
-| 2023/3/23 | AJ19( **亚) | 200 | 200 | - |
-| 2023/3/23 | **俊 | 50 | 250 | - |
+| Time      | Sponsor     | Amount | Total | Balance |
+| --------- | ----------- | ------ | ----- | ------- |
+| 2023/3/23 | AJ19( **亚) | 200    | 200   | -       |
+| 2023/3/23 | **俊        | 50     | 250   | -       |
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
@@ -127,7 +126,7 @@ Top 3 Sponsors
 
 项目的资金流向将被公开，所有的资金将被用于数据的标注，训练算力的购买或者后续周边产品的发放。数据和算力的捐献也会一同总结在sponsorship的表格中。备用链接 [二维码](image/sponser_QR_code.jpeg) , [支付宝](image/alipay_friend.jpeg)账号
 
-This was originally an exercise project for us, and we originally planned to train until version 1.0. However, the enthusiasm of the community exceeded our expectations. If you are willing to sponsor our project, you can scan this [QR code](image/sponser_QR_code.jpeg)  and add [this Alipay account](image/alipay_friend.jpeg), leaving your name. 
+This was originally an exercise project for us, and we originally planned to train until version 1.0. However, the enthusiasm of the community exceeded our expectations. If you are willing to sponsor our project, you can scan this [QR code](image/sponser_QR_code.jpeg)  and add [this Alipay account](image/alipay_friend.jpeg), leaving your name.
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
@@ -136,15 +135,16 @@ All funds will be used for data annotation, purchase of training computing power
 It seems that there are many follow-up tasks to be done after the basic version is completed. Many developers in the community have put forward more friendly suggestions, and I have put a longer TODO list in [TODO_list.md](data/TODO_list.md).
 
 inbuilding project
-- [x] translate alpaca json data into Chinese
-- [x] finetuning with lora(model 0.1)
-- [x] release 0.1 model (model A)
-- [x] model to hugging face, GUI demo
+
+- [X] translate alpaca json data into Chinese
+- [X] finetuning with lora(model 0.1)
+- [X] release 0.1 model (model A)
+- [X] model to hugging face, GUI demo
 - [ ] train lora with more alpaca data(model 0.3)
 - [ ] train lora with more alpaca data(model 0.9)
 
+## Citation
 
-## Citation 
 If you find this project useful in your research, please consider citing:
 
 ```
@@ -156,4 +156,3 @@ If you find this project useful in your research, please consider citing:
   year={2023}
 }
 ```
-
