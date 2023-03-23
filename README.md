@@ -11,8 +11,6 @@ A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, �
 
 This is NOT an official product of SenseTime
 
-This project only made a slightly change on the Japanese-Alpaca-LoRA
-
 We named project in Camel because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
 ## News
@@ -93,6 +91,8 @@ The training code in in cleaning, if you are in very hurry, check the Japanese p
 
 This is an inbuilding project
 
+The training code only made a slightly change on the Japanese-Alpaca-LoRA
+
 A. [0.1 version model](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) was trained on translated data, which translate the [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) to Chinese using ChatGPT API.
 We paid around US $30-45 to translate the full dataset to chinese. Translated data is available. ([trans_chinese_alpaca_data.json](data/trans_chinese_alpaca_data.json))
 
@@ -110,13 +110,15 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 并且加这个[支付宝](alipay_friend.jpeg)账号，留下您的姓名
 
-项目的资金流向将被公开，所有的资金将被用于数据的标注，训练算力的购买或者后续周边产品的发放。
+项目的资金流向将被公开，所有的资金将被用于数据的标注，训练算力的购买或者后续周边产品的发放。数据和算力的捐献也会一同总结在sponsorship的表格中。
 
 This was originally an exercise project for us, and we originally planned to train until version 1.0. However, the enthusiasm of the community exceeded our expectations. If you are willing to sponsor our project, you can scan this [QR code]((image/sponser_QR_code.jpeg)) and add [this Alipay account](alipay_friend.jpeg), leaving your name. 
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
-## TODO
+## TODO and Be a Contributor
+
+It seems that there are many follow-up tasks to be done after the basic version is completed. Many developers in the community have put forward more friendly suggestions, and I have put a longer TODO list in [TODO_list.md](data/TODO_list.md).
 
 inbuilding project
 - [x] translate alpaca json data into Chinese
