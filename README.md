@@ -35,7 +35,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 | Model Name | Training Data and Setting |
 | --- | :--- |
 | [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
-| luotuo-lora-7b-0.3 | (In Plan) cleaned alpaca 52k + 10% guanaco |
+| [luotuo-lora-7b-0.3](https://huggingface.co/silk-road/luotuo-lora-7b-0.3) | Trained on Translated alpaca 52k data + guanaco, 1 epoch |
 | luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
 
 luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, even just after 1 epoch.
@@ -116,9 +116,10 @@ Top 3 Sponsors
 | --- | --- | --- | --- |
 | 2023/3/23 | AJ19( **亚) | 200    | -       |
 | 2023/3/23 | 冯偲        | 200    | -       |
+| 2023/3/23 | 云**       | 100    | -       |
 | 2023/3/23 | **俊        | 50     | -       |
 
-450 in total.
+550 in total.
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
