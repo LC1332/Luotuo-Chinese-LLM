@@ -16,6 +16,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
+[2023-3-24] The Luotuo proj aim to study whether an En model cross-language learning to Ch via LoRA. We will soon release a Chinese LoRA project, CamelBell, which can be trained with less data based on a Chinese base model.
 [2023-3-23] luotuo-chinese-lora-7b-0.3 was released!
 
 ## A Quick Start
@@ -142,6 +143,8 @@ inbuilding project
 - [X] model to hugging face, GUI demo
 - [ ] train lora with more alpaca data(model 0.3)
 - [ ] train lora with more alpaca data(model 0.9)
+
+We plan to use this Luotuo project as the git repository for the entire Chinese LLM project. After the completion of the original Luotuo: LLaMA-LoRA, it will be migrated to Luotuo-vanilla. The CamelBell, Loulan, Silk-Road and other derivative Chinese language model projects will gradually be added to the Luotuo project.
 
 ## Citation
 
