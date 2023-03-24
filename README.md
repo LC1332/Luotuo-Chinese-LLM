@@ -112,9 +112,9 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 | Time      | Sponsor     | Amount | Balance |
 | --- | --- | --- | --- |
-| 2023/3/24 | Hijun       | 500    |494 | |
-| 2023/3/24 | 倪天亮       | 500    |994 | |
-| 2023/3/24 | 李**       | 334    |-6 | |
+| 2023/3/24 | Hijun       | 500    | | |
+| 2023/3/24 | 倪天亮       | 500    | | |
+| 2023/3/24 | 李**       | 334    | | |
 
 balance = 994 now, total spon. = 2184. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
