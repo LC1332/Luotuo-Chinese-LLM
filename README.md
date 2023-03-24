@@ -16,7 +16,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
-[2023-3-24] We've just released Tuoling: tuning Chinese LLM with very few data on GLM-6B via LoRA, try [here](https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLing_evaluation_code.ipynb), we may create a new repo soon
+[2023-3-24] We've just released Tuoling: tuning Chinese LLM with very few data on GLM-6B via LoRA, try [here](https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLing_evaluation_code.ipynb) <a href="ttps://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLing_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> , we may create a new repo soon
 
 [2023-3-24] The Luotuo proj aim to study whether an En model cross-language learning to Ch via LoRA. We will soon release a Chinese LoRA project, CamelBell, which can be trained with less data based on a Chinese base model.
 
