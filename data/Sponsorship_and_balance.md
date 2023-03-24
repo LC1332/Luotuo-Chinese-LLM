@@ -4,9 +4,9 @@ Top 3 Sponsors
 
 | Time      | Sponsor     | Amount | Balance |
 | --- | --- | --- | --- |
+| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)      | 512    |  | |
 | 2023/3/24 | Hijun       | 500    | | |
 | 2023/3/24 | 倪**       | 500    | | |
-| 2023/3/24 | [李喵喵](https://github.com/ljsabc/Fujisaki)       | 334    | | |
 
 balance = 994 now, total spon. = 2184 
 
@@ -34,10 +34,13 @@ All funds will be used for data annotation, purchase of training computing power
 | 2023/3/23 | 冯偲        | 200    |-740 | |
 | 2023/3/24 | 云**       | 200    |-540 | |
 | 2023/3/24 | 黄唯       | 200    |-340 | |
-| 2023/3/24 | 李喵喵       | 334    |-6 | |
+| 2023/3/24 | [李喵喵](https://github.com/ljsabc/Fujisaki)  | 334    |-6 | |
 | 2023/3/24 | Hijun       | 500    |494 | |
 | 2023/3/24 | 倪**       | 500    |994 | |
 | 2023/3/24 | Jack李      | 100    | 1094 | |
+| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)      | 512    | 1606 | |
+| 2023/3/24 | *磊      | 100    | 1706 | |
+
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
 * openAI买了60美金，实际使用了35美金，还有一些剩余可以继续调用
