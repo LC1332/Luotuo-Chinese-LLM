@@ -37,3 +37,4 @@ All funds will be used for data annotation, purchase of training computing power
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
 
+我们仍然需要后续训练10个以上的模型，所以我们期望2万左右的赞助总额，但是大家聚沙成塔，各自量力而行就可以
