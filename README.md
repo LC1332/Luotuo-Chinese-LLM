@@ -110,15 +110,13 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 ## Sponsorships(赞助)
 
-Top 3 Sponsors
-
 | Time      | Sponsor     | Amount | Balance |
 | --- | --- | --- | --- |
-| 2023/3/23 | AJ19( **亚) | 200    | -       |
-| 2023/3/23 | 冯偲        | 200    | -       |
-| 2023/3/24 | 云**       | 200    | -       |
+| 2023/3/24 | Hijun       | 500    |494 | |
+| 2023/3/24 | 倪天亮       | 500    |994 | |
+| 2023/3/24 | 李**       | 334    |-6 | |
 
-650 in total. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+balance = 994 now, total spon. = 2184. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
