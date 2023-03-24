@@ -1,6 +1,6 @@
 ## Sponsorships(赞助)
 
-Top 3 Sponsors
+Top 10 Sponsors
 
 | Time      | Sponsor     | Amount | Balance |
 | --- | --- | --- | --- |
@@ -22,3 +22,15 @@ Top 3 Sponsors
 This was originally an exercise project for us, and we originally planned to train until version 1.0. However, the enthusiasm of the community exceeded our expectations. If you are willing to sponsor our project, you can scan this [QR code](image/sponser_QR_code.jpeg)  and add [this Alipay account](image/alipay_friend.jpeg), leaving your name.
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
+
+## Balance
+
+| Time      | Operator     | item | Balance | Event |
+| --- | --- | --- | --- | --- |
+|  | 李鲁鲁 | -420 | -420 | 购买colab |
+|  | 冷子昂 | -500 | -500 | 购买autoDL |
+| 2023/3/23 | **俊        | 50     | 50       |  |
+| 2023/3/23 | AJ19( **亚) | 200    | 250      |  |
+| 2023/3/23 | 冯偲        | 200    | 450      |  |
+| 2023/3/24 | 云**       | 200    | 650      |  |
+
