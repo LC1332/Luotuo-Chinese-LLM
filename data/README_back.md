@@ -19,21 +19,22 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 [2023-3-23] luotuo-chinese-lora-7b-0.3 was released!
 
 ## A Quick Start
-| Colab Link         |                                                                                                                                                                                                | detail                                             |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
-| A quick evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb)     | Evaluation code with standard HuggingFace pipeline |
-| Bot with Interface | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb)          | Interactive Chatting Bot using Gradio              |
-| Training Code      | To be released                                                                                                                                                                                 | Training code, run on colab                        |
-| Data Translation   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb) | Translation alpaca.json into Chinese               |
 
+| Colab Link |  | detail |
+| --- | --- | :--- |
+| A quick evaluation | <a href="https://colab.research.google.com/drive/1rX5DFkbX7YLu1isRqChFfybJdZ8pOTOb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| Bot with Interface | <a href="https://colab.research.google.com/drive/1q5h77xrbLGT5b-W3547a99YMNEJ0qhWc?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
+| Training Code | To be released | Training code, run on colab |
+| Data Translation  | <a href="https://colab.research.google.com/drive/11x1xxizL4qw4biX89QFlnP9C7cg8b7A5?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
 ## Trained Model
 
-| Model Name                                                                          | Training Data and Setting                             |
-| ----------------------------------------------------------------------------------- | :---------------------------------------------------- |
-| [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main)    | Trained on Translated alpaca 52k data                 |
-| [luotuo-lora-7b-0.3](https://huggingface.co/silk-road/luotuo-lora-7b-0.3/tree/main) | translated alpaca 52k + guanaco, only trained 1 epoch |
-| luotuo-lora-7b-0.9                                                                  | (In Plan) cleaned alpaca 52k + full guanaco           |
+| Model Name | Training Data and Setting |
+| --- | :--- |
+| [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
+| luotuo-lora-7b-0.3 | (In Plan) cleaned alpaca 52k + 10% guanaco |
+| luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
+
 
 luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, even just after 1 epoch.
 
@@ -114,7 +115,7 @@ We plan to upload two different models A and B, because the provider of B claim 
 Top 3 Sponsors
 
 | Time      | Sponsor     | Amount | Balance |
-| --------- | ----------- | ------ | ------- |
+| --- | --- | --- | --- |
 | 2023/3/23 | AJ19( **亚) | 200    | -       |
 | 2023/3/23 | 冯偲        | 200    | -       |
 | 2023/3/23 | **俊        | 50     | -       |
