@@ -3,7 +3,7 @@
 Top 3 Sponsors
 
 | Time     | Sponsor     | Amount |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | 2023/3/25 | 肖**[mobe1978]( https://github.com/mobe1978)  | 520 |
 | 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)  | 512 |
 | 2023/3/24 | Hijun       | 500 | 
