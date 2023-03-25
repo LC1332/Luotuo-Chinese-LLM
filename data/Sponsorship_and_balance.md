@@ -2,13 +2,14 @@
 
 Top 3 Sponsors
 
-| Time      | Sponsor     | Amount | Balance |
+| Time     | Sponsor     | Amount |
 | --- | --- | --- | --- |
-| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)      | 512    |  | |
-| 2023/3/24 | Hijun       | 500    | | |
-| 2023/3/24 | 倪**       | 500    | | |
+| 2023/3/25 | 肖**[mobe1978]( https://github.com/mobe1978)  | 520 |
+| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)  | 512 |
+| 2023/3/24 | Hijun       | 500 | 
+| 2023/3/24 | 倪**       | 500 | 
 
-balance = 1706 now
+balance = 2374 now
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
@@ -23,23 +24,6 @@ This was originally an exercise project for us, and we originally planned to tra
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
 ## Balance
-
-| Time      | Operator     | item | Balance | Event |
-| --- | --- | --- | --- | --- |
-|  | 李鲁鲁 | -280 | -280 | 购买colab |
-|  | 冷子昂 | -500 | -780 | 购买autoDL* |
-|  | 李鲁鲁 | -410 | -1190 | openAI数据标注* |
-| 2023/3/23 | **俊        | 50     | -1140 | |
-| 2023/3/23 | AJ19( **亚) | 200    |-940 | |
-| 2023/3/23 | 冯偲        | 200    |-740 | |
-| 2023/3/24 | 云**       | 200    |-540 | |
-| 2023/3/24 | 黄唯       | 200    |-340 | |
-| 2023/3/24 | [李喵喵](https://github.com/ljsabc/Fujisaki)  | 334    |-6 | |
-| 2023/3/24 | Hijun       | 500    |494 | |
-| 2023/3/24 | 倪**       | 500    |994 | |
-| 2023/3/24 | Jack李      | 100    | 1094 | |
-| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)      | 512    | 1606 | |
-| 2023/3/24 | *磊      | 100    | 1706 | |
 
 | Time      | Operator     | item | Balance | Event |
 | --- | --- | --- | --- | --- |
