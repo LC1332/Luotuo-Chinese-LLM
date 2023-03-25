@@ -16,9 +16,11 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
+[2023-3-25] CamelBell([驼铃](https://github.com/LC1332/CamelBell-Chinese-LoRA)), tuning Chinese on Chinese based model GLM is now an individual repo. We may move original Luotuo into a new repo also.
+
 [2023-3-24] We've just released CamelBell(驼铃): tuning Chinese LLM with very few data on GLM-6B via LoRA, try [here](https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLing_evaluation_code.ipynb) <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLing_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> , we may create a new repo soon
 
-[2023-3-24] The Luotuo proj aim to study whether an En model cross-language learning to Ch via LoRA. We will soon release a Chinese LoRA project, CamelBell, which can be trained with less data based on a Chinese base model.
+
 
 ## A Quick Start
 
@@ -150,14 +152,15 @@ We plan to use this Luotuo project as the git repository for the entire Chinese 
 
 ## Citation
 
-If you find this project useful in your research, please consider citing:
+Please cite the repo if you use the data or code in this repo.
 
 ```
-@inproceedings{leng2023luotuo-ch-alpaca,
-  title={Luotuo: Evaluating Cross-En-Ch-lingual training of LLM via Low Rank Adaption},
-  publisher = {GitHub},
+@misc{alpaca,
   author={Ziang Leng, Qiyuan Chen and Cheng Li},
-  url={https://github.com/LC1332/Chinese-alpaca-lora},
-  year={2023}
+  title = {Luotuo: An Instruction-following Chinese Language, LoRA tuning on LLaMA model},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/LC1332/Chinese-alpaca-lora}},
 }
 ```
