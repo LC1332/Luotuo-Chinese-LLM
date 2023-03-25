@@ -4,7 +4,7 @@ Top 3 Sponsors
 
 | Time     | Sponsor     | Amount |
 | --- | --- | --- |
-| 2023/3/25 | 肖**[mobe1978]( https://github.com/mobe1978)  | 520 |
+| 2023/3/25 | [肖**]( https://github.com/mobe1978)  | 520 |
 | 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)  | 512 |
 | 2023/3/24 | Hijun       | 500 | 
 | 2023/3/24 | 倪**       | 500 | 
@@ -44,7 +44,7 @@ All funds will be used for data annotation, purchase of training computing power
 |  | 陈启源 | -79 | 1627 | 购买colab |
 | 2023/3/25 | [毕*](https://github.com/BICHENG)      | 256    | 1883 | |
 |  | 李鲁鲁 | -29 | 1854 | 购买GPT |
-| 2023/3/25 | 肖**[mobe1978]( https://github.com/mobe1978)   | 520   | 2374 | |
+| 2023/3/25 | [肖**]( https://github.com/mobe1978)   | 520   | 2374 | |
 
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
