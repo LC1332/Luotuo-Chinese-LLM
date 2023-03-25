@@ -27,7 +27,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 | Colab Link |  | detail |
 | --- | --- | :--- |
 | CamelBell quick evaluation | <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Tuoling specific Evaluation Code |
-| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard Hugging Face pipeline |
 | Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
 | Training Code | To be released | Training code, run on colab |
 | Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
@@ -144,7 +144,7 @@ inbuilding project
 - [X] translate alpaca json data into Chinese
 - [X] finetuning with lora(model 0.1)
 - [X] release 0.1 model (model A)
-- [X] model to hugging face, GUI demo
+- [X] model to Hugging Face, GUI demo
 - [ ] train lora with more alpaca data(model 0.3)
 - [ ] train lora with more alpaca data(model 0.9)
 
