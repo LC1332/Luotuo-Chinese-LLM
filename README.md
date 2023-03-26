@@ -2,9 +2,9 @@
 
 骆驼(Luotuo) is the Chinese pinyin(pronunciation) of camel
 
-A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Third year undergraduate student) and 李鲁鲁 @ 商汤科技
+A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Junior Undergrad.) and 李鲁鲁 @ 商汤科技
 
-(email: chengli@sensetime.com, zaleng@bu.edu, chenqiyuan1012@foxmail.com)
+( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
 <p align="center">
   <img src="image/camel_back.png">
