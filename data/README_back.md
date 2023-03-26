@@ -4,7 +4,7 @@
 
 A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学(Third year undergraduate student) and 李鲁鲁 @ 商汤科技
 
-(email: chengli@sensetime.com, zaleng@bu.edu, chenqiyuan1012@foxmail.com)
+( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
 <p align="center">
   <img src="image/camel_back.png">
@@ -14,27 +14,36 @@ This is NOT an official product of SenseTime
 
 We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
+
+
 ## News
 
-[2023-3-23] luotuo-chinese-lora-7b-0.3 was released!
+[2023-3-25] Luotuo-1.0 is in training! Thanks for all sponsors!
+
+[2023-3-25] CamelBell([驼铃](https://github.com/LC1332/CamelBell-Chinese-LoRA)), tuning Chinese Data on Chinese based model GLM is now an individual repo. We may move original Luotuo into a new repo also.
+
+[2023-3-24] We've just released [CamelBell(驼铃)](https://github.com/LC1332/CamelBell-Chinese-LoRA): tuning Chinese LLM with very few data on GLM-6B via LoRA, try [here](https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb) <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> , we may create a new repo soon
+
+
 
 ## A Quick Start
 
 | Colab Link |  | detail |
 | --- | --- | :--- |
-| A quick evaluation | <a href="https://colab.research.google.com/drive/1rX5DFkbX7YLu1isRqChFfybJdZ8pOTOb?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
-| Bot with Interface | <a href="https://colab.research.google.com/drive/1q5h77xrbLGT5b-W3547a99YMNEJ0qhWc?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
+| CamelBell quick evaluation | <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Tuoling specific Evaluation Code |
+| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
 | Training Code | To be released | Training code, run on colab |
-| Data Translation  | <a href="https://colab.research.google.com/drive/11x1xxizL4qw4biX89QFlnP9C7cg8b7A5?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
+| Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
+
 
 ## Trained Model
 
 | Model Name | Training Data and Setting |
 | --- | :--- |
 | [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
-| luotuo-lora-7b-0.3 | (In Plan) cleaned alpaca 52k + 10% guanaco |
+| [luotuo-lora-7b-0.3](https://huggingface.co/silk-road/luotuo-lora-7b-0.3) | Trained on Translated alpaca 52k data + guanaco, 1 epoch |
 | luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
-
 
 luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, even just after 1 epoch.
 
@@ -65,12 +74,14 @@ Input: 2017年美国总统是谁
 Luotuo-Output: 2017年美国总统是特朗普
 ```
 
-this example failed in 0.1
 
 ```
 Input: 华中师范大学在哪里
-Luotuo-Output: 华中师范大学在武汉市。
+Luotuo-0.1-Output: 华中师范大学位于北京
+Luotuo-0.3-Output: 华中师范大学在武汉市。
 ```
+
+this example failed in 0.1
 
 ### Bad Examples
 
@@ -83,12 +94,6 @@ Luotuo-0.3-Output: 商汤科技是一种技术，它可以用于创建新的产�
 ```
 Input: 猫和狗的关系是什么
 Luotuo-Output: 猫和狗之间的关系是友好的。它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常
-```
-
-```
-Input: 华中师范大学在哪里？
-Luotuo-0.1-Output: 华中师范大学位于北京
-Luotuo-0.3-Output: 华中师范大学在武汉市。
 ```
 
 ## Training
@@ -114,13 +119,14 @@ We plan to upload two different models A and B, because the provider of B claim 
 
 Top 3 Sponsors
 
-| Time      | Sponsor     | Amount | Balance |
-| --- | --- | --- | --- |
-| 2023/3/23 | AJ19( **亚) | 200    | -       |
-| 2023/3/23 | 冯偲        | 200    | -       |
-| 2023/3/23 | **俊        | 50     | -       |
+| Time     | Sponsor     | Amount |
+| --- | --- | --- |
+| 2023/3/25 | [肖**]( https://github.com/mobe1978)  | 520 |
+| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)  | 512 |
+| 2023/3/24 | Hijun       | 500 | 
+| 2023/3/24 | 倪**       | 500 | 
 
-450 in total.
+balance = 2374 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
@@ -144,19 +150,22 @@ inbuilding project
 - [X] finetuning with lora(model 0.1)
 - [X] release 0.1 model (model A)
 - [X] model to hugging face, GUI demo
-- [ ] train lora with more alpaca data(model 0.3)
-- [ ] train lora with more alpaca data(model 0.9)
+- [X] train lora with more alpaca data(model 0.3)
+- [ ] (In Processing) train lora with more alpaca data(model 0.9)
+
+We plan to use this Luotuo project as the git repository for the entire Chinese LLM project. After the completion of the original Luotuo: LLaMA-LoRA, it will be migrated to Luotuo-vanilla. The CamelBell, Loulan, Silk-Road and other derivative Chinese language model projects will gradually be added to the Luotuo project.
 
 ## Citation
 
-If you find this project useful in your research, please consider citing:
+Please cite the repo if you use the data or code in this repo.
 
 ```
-@inproceedings{leng2023luotuo-ch-alpaca,
-  title={Luotuo: Evaluating Cross-En-Ch-lingual training of LLM via Low Rank Adaption},
-  publisher = {GitHub},
+@misc{alpaca,
   author={Ziang Leng, Qiyuan Chen and Cheng Li},
-  url={https://github.com/LC1332/Chinese-alpaca-lora},
-  year={2023}
+  title = {Luotuo: An Instruction-following Chinese Language, LoRA tuning on LLaMA model},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/LC1332/Chinese-alpaca-lora}},
 }
 ```
