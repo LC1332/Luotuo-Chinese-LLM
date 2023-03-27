@@ -16,7 +16,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
-[2023-3-27] We plan to train a ChatHarryPotter, we've just finished the prelimiary experiment and have ver. 0.1 model, but it did not meet our expectation, see this [report](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), and we are pursuing **a Harry Potter enthusiast Pythoner to join**.
+[2023-3-27] We plan to train a [**ChatHarryPotter**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), we've just finished the prelimiary experiment and have ver. 0.1 model, but it did not meet our expectation, see this [report](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), and we are pursuing **a Harry Potter enthusiast Pythoner to join**.
 
 [2023-3-25] Luotuo-1.0 is in training! Thanks for all sponsors!
 
@@ -158,7 +158,7 @@ Please cite the repo if you use the data or code in this repo.
 ```
 @misc{alpaca,
   author={Ziang Leng, Qiyuan Chen and Cheng Li},
-  title = {Luotuo: An Instruction-following Chinese Language, LoRA tuning on LLaMA model},
+  title = {Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA},
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
