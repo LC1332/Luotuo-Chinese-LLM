@@ -16,12 +16,11 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News
 
+[2023-3-27] We plan to train a ChatHarryPotter, we've just finished the prelimiary experiment and have ver. 0.1 model, but it did not meet our expectation, see this [report](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), and we are pursuing *a Harry Potter enthusiast Pythoner to join*.
+
 [2023-3-25] Luotuo-1.0 is in training! Thanks for all sponsors!
 
-[2023-3-25] CamelBell([驼铃](https://github.com/LC1332/CamelBell-Chinese-LoRA)), tuning Chinese Data on Chinese based model GLM is now an individual repo. We may move original Luotuo into a new repo also.
-
-[2023-3-24] We've just released [CamelBell(驼铃)](https://github.com/LC1332/CamelBell-Chinese-LoRA): tuning Chinese LLM with very few data on GLM-6B via LoRA, try [here](https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb) <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> , we may create a new repo soon
-
+[2023-3-25] CamelBell([驼铃](https://github.com/LC1332/CamelBell-Chinese-LoRA)), tuning Chinese Data on Chinese base-model is now an individual repo. We may move original Luotuo into a new repo also <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>.
 
 
 ## A Quick Start
