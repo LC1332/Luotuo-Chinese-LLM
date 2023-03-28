@@ -148,6 +148,8 @@ inbuilding project
 - [X] model to hugging face, GUI demo
 - [X] train lora with more alpaca data(model 0.3)
 - [ ] (In Processing) train lora with more alpaca data(model 0.9)
+- [ ] clean training code
+- [ ] write the second phase plan for Luotuo
 
 We plan to use this Luotuo project as the git repository for the entire Chinese LLM project. After the completion of the original Luotuo: LLaMA-LoRA, it will be migrated to Luotuo-vanilla. The CamelBell, Loulan, Silk-Road and other derivative Chinese language model projects will gradually be added to the Luotuo project.
 
