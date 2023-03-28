@@ -117,12 +117,12 @@ We plan to upload two different models A and B, because the provider of B claim 
 Top 3 Sponsors
 
 | Time     | Sponsor     | Amount |
-| --- | --- | --- |
+| --- | --- | --- | 
+| 2023/3/28 | 张**      | 2000 |
 | 2023/3/25 | [肖**]( https://github.com/mobe1978)  | 520 |
 | 2023/3/24 | *潇      | 518    |
-| 2023/3/24 | [yiplee](https://github.com/pandodao/botastic)  | 512 |
 
-balance = 3392 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+balance = 5792 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
