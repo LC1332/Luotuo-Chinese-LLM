@@ -50,7 +50,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 | | Detail |
 | --- | :--- |
-| <p align="center"> <img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Cabrita" style="width: 20%; min-width: 300px; display: block; margin: auto;"> </p> | Some Detail |
+| <p align="center"> <img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Cabrita" style="width: 20%; min-width: 300px; display: block; margin: auto;"> </p> | ## Project 骆驼 <br> 一些详细的细节 |
 
 
 ## Trained Model
