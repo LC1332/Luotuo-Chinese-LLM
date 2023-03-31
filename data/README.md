@@ -7,7 +7,7 @@ A Chinese finetuned instruction LLaMA. Developed by 冷子昂 @ 商汤科技, �
 ( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
 <p align="center">
-  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/WechatIMG13.png">
+  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/WechatIMG13.png"  height="300">
 </p>
 
 This is NOT an official product of SenseTime
