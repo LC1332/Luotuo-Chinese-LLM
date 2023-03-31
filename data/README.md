@@ -28,7 +28,7 @@ Evaluating our model on Colab at first, which we strongly recommended.
 <table>
 
   <tr>
-    <td width= "200"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="180"></td>
+    <td width= "180"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
       <p> If you seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
@@ -36,7 +36,7 @@ Evaluating our model on Colab at first, which we strongly recommended.
   </tr>
 </table>
 
-+ CamelBell-B (驼铃-B) will be ChatHarryPotter
++ CamelBell-B (驼铃-B) will be [ChatHarryPotter](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md)
 
 ```
 Instruction: 斯内普和伏地魔之间是什么关系?
@@ -61,7 +61,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 <table>
   <tr>
-    <td width= "220"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "220"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="180"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
       <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect that tuning trans-lingual data on a large language model. </p>
