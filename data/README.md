@@ -5,7 +5,7 @@ Project 骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华�
 ( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
 <p align="center">
-  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/WechatIMG13.png"  height="250">
+  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/WechatIMG13.png"  height="250" style="left;">
 </p>
 
 This is NOT an official product of SenseTime
@@ -130,6 +130,17 @@ balance = 5792 now. Detailed balance see in [sponsorship_and_balance.md](data/Sp
 This was originally an exercise project for us, and we originally planned to train until version 1.0. However, the enthusiasm of the community exceeded our expectations. If you are willing to sponsor our project, you can scan this [QR code](image/sponser_QR_code.jpeg)  and add [this Alipay account](image/alipay_friend.jpeg), leaving your name.
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
+
+## Contributors
+
+TODO: add md to describe each contributor
+
+| N     | C     | N | C |
+| --- | --- | --- | --- |
+| 李鲁鲁 | Founder | 冷子昂 | Founder |
+| 陈启源 | Founder | Juro | |
+| HS | | HF | |
+
 
 ## TODO and Be a Contributor
 
