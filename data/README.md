@@ -52,6 +52,10 @@ Answer: 斯内普和伏地魔之间是非常复杂的关系。伏地魔是斯内
 
 + CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+
+<details>
+  <summary>Example Output of CamelBell-C</summary>
+
 ```
 Instruction: 请帮我总结以下内容:
 Input: 
@@ -63,6 +67,8 @@ Input:
 
 Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号种子,成公开赛年代首个冠军。
 ```
+
+</details>
 
 
 
