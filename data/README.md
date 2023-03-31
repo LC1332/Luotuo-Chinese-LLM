@@ -49,22 +49,38 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 ## Project Exhibition
 
 <table>
+
   <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="example image" style="width:200px;"></td>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="250"></td>
     <td>
-      <h2> Luotuo(骆驼) </h2>
-      <p>Here is some text explaining the content of the table.</p>
-      <p>Here is some text explaining the content of the table.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Example Image" width="250"></td>
-    <td>
-      <h2><a href="https://www.Dina.com"> 骆驼 </a></h2>
-      <p>这里是正文。Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis mauris ac eros hendrerit commodo. Fusce eu justo in metus gravida viverra. Proin molestie, velit ac aliquam convallis, risus mi ultricies quam, at faucibus orci ligula ac ligula. </p>
+      <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
+      <p> If you seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
     </td>
   </tr>
 
+  <tr>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="250"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
+      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B.  </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="250"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> 骆驼 </a></h2>
+      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B.  </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="250"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> 骆驼 </a></h2>
+      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B.  </p>
+    </td>
+  </tr>
 </table>
 
 
