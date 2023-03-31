@@ -52,15 +52,20 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
   <tr>
     <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="example image" style="width:250px;"></td>
     <td>
-      <h2>Title</h2>
+      <h2> Luotuo(骆驼) </h2>
+      <p>Here is some text explaining the content of the table.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="example image" style="width:250px;"></td>
+    <td>
+      <h2> Luotuo(骆驼) </h2>
       <p>Here is some text explaining the content of the table.</p>
     </td>
   </tr>
 </table>
 
-| | Detail |
-| --- | :--- |
-| ![luotuo](https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png) |### Project 骆驼 <br> 一些详细的细节 |
 
 
 ## Trained Model
