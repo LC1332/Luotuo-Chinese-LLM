@@ -84,7 +84,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
     <td width= "220"><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
-      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect tuning trans-lingual on a large language model. </p>
+      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect that tuning trans-lingual data on a large language model. </p>
     </td>
   </tr>
 </table>
