@@ -61,7 +61,10 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 + CamelBell-B (驼铃-B) will be ChatHarryPotter
 
-
+```
+Instruction: 斯内普和伏地魔之间是什么关系?
+Answer: 斯内普和伏地魔之间是非常复杂的关系。伏地魔是斯内普的雇主,他利用斯内普来执行他的计划。斯内普一开始是斯莱特林的学生,但他后来加入了伏地魔的阵营,成为了他的追随者。斯内普和伏地魔之间的关系非常紧张,他们互相对抗,但也有一些共同的利益。
+```
 
 + CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
@@ -88,6 +91,24 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
     </td>
   </tr>
 </table>
+
++ Check Evaluation Code Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
++ An Interface Demo via Gradio Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
++ Luotuo 1.0 is still in training, because distribute on local server taking us sometime, still many bugs need to be fix.
+
+```
+Input: 中国的首都在哪里？
+Luotuo-Output: 中国的首都是北京。
+```
+
+```
+Input: 华中师范大学在哪里
+Luotuo-0.1-Output: 华中师范大学位于北京
+Luotuo-0.3-Output: 华中师范大学在武汉市。
+```
+
 
 <table>
   <tr>
