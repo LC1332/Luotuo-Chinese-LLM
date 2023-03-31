@@ -74,6 +74,14 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 + Luotuo 1.0 is still in training, because distribute on local server taking us sometime, still many bugs need to be fix.
 
+
+<details>
+  <summary>点此展开</summary>
+
+  这里是需要折叠的内容。
+
+</details>
+
 ```
 Input: 中国的首都在哪里？
 Luotuo-Output: 中国的首都是北京。
