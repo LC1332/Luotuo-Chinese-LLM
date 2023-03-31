@@ -36,11 +36,11 @@ Evaluating our model on Colab at first, which we strongly recommended.
   </tr>
 </table>
 
-+ CamelBell-B (驼铃-B) will be [ChatHarryPotter](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md)
+CamelBell-B (驼铃-B) will be [ChatHarryPotter](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md)
 
 
 <details>
-  <summary>Example Output of CamelBell-B</summary>
+  <summary>Example Output of CamelBell-B (click me)</summary>
 
 ```
 Instruction: 斯内普和伏地魔之间是什么关系?
@@ -51,11 +51,11 @@ Answer: 斯内普和伏地魔之间是非常复杂的关系。伏地魔是斯内
 
 
 
-+ CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 <details>
-  <summary>Example Output of CamelBell-C</summary>
+  <summary>Example Output of CamelBell-C (click me)</summary>
 
 ```
 Instruction: 请帮我总结以下内容:
@@ -83,16 +83,16 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
   </tr>
 </table>
 
-+ Check Evaluation Code Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+Check Evaluation Code Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-+ An Interface Demo via Gradio Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+An Interface Demo via Gradio Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-+ Luotuo 1.0 is still in training, because distribute on local server taking us sometime, still many bugs need to be fix.
+Luotuo 1.0 is still in training, because distribute on local server taking us sometime, still many bugs need to be fix.
 
 
 
 <details>
-  <summary>Example Output of Luotuo</summary>
+  <summary>Example Output of Luotuo (click me)</summary>
 
 ```
 Input: 中国的首都在哪里？
