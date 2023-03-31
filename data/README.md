@@ -30,7 +30,7 @@ Evaluating our model on Colab at first, which we strongly recommended.
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_camelbell.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
-      <p> If you seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
+      <p> If you are seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_road.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Road 丝绸之路 </a></h2>
-      <p> Silk Road  </p>
+      <p> Silk Road (丝绸之路) will be the model bank of project Luotuo. </p>
     </td>
   </tr>
 </table>
