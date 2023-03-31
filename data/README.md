@@ -61,7 +61,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 <table>
   <tr>
-    <td width= "220"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="180"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
       <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect that tuning trans-lingual data on a large language model. </p>
@@ -89,17 +89,17 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 <table>
   <tr>
-    <td width= "220"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Scroll 丝绸卷轴 </a></h2>
-      <p> Silk Scroll  </p>
+      <p> The silk scroll will record the Magic Prompt on some very Large LLMs. We hope that in some day, Luotuo trained models can adapt to diverse Prompt Tasks also.  </p>
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width= "220"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Road 丝绸之路 </a></h2>
       <p> Silk Road  </p>
