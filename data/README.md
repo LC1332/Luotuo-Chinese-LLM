@@ -5,7 +5,7 @@ Project 骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华�
 ( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
 <p align="center">
-  <img src="image/camel_back.png">
+  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/camel_back.png">
 </p>
 
 
