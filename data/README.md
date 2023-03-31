@@ -21,7 +21,9 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 [2023-3-25] Luotuo-1.0 is in training! Thanks for all sponsors!
 
 
-## Project Exhibition
+## A Quick Start
+
+Evaluating our model on Colab at first, which we strongly recommended.
 
 <table>
 
