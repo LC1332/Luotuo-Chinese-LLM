@@ -27,7 +27,7 @@ Evaluating our model on Colab at first, which we strongly recommended.
 
 <table>
   <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_camelbell.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
       <p> If you seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
@@ -60,7 +60,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 <table>
   <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
       <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect that tuning trans-lingual data on a large language model. </p>
@@ -88,7 +88,7 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 <table>
   <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Scroll 丝绸卷轴 </a></h2>
       <p> The silk scroll will record the Magic Prompt on some very Large LLMs. We hope that in some day, Luotuo trained models can adapt to diverse Prompt Tasks also.  </p>
@@ -98,7 +98,7 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 <table>
   <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_road.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Road 丝绸之路 </a></h2>
       <p> Silk Road  </p>
@@ -106,85 +106,6 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
   </tr>
 </table>
 
-
-
-## Trained Model
-
-| Model Name | Training Data and Setting |
-| --- | :--- |
-| [luotuo-lora-7b-0.1](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) | Trained on Translated alpaca 52k data |
-| [luotuo-lora-7b-0.3](https://huggingface.co/silk-road/luotuo-lora-7b-0.3) | Trained on Translated alpaca 52k data + guanaco, 1 epoch |
-| luotuo-lora-7b-0.9 | (In Plan) cleaned alpaca 52k + full guanaco |
-
-luotuo-lora-7b-0.3 the performance seems have significant improvement than 0.1, even just after 1 epoch.
-
-<p align="center">
-  <img src="image/0.3result_1epoch.png">
-</p>
-
-But 1 epoch cost us 7 hours to train, which cost more than $10. We will keep continue tuning it later.
-
-## Qualitative Result(0.3)
-
-Evaluation code are now in notebook/evaluation_code.ipynb
-
-### Good Examples
-
-```
-Input: 中国的首都在哪里？
-Luotuo-Output: 中国的首都是北京。
-```
-
-```
-Input: 麦当劳是哪个国家的？
-Luotuo-Output: 美国。
-```
-
-```
-Input: 2017年美国总统是谁
-Luotuo-Output: 2017年美国总统是特朗普
-```
-
-
-```
-Input: 华中师范大学在哪里
-Luotuo-0.1-Output: 华中师范大学位于北京
-Luotuo-0.3-Output: 华中师范大学在武汉市。
-```
-
-this example failed in 0.1
-
-### Bad Examples
-
-```
-Input: 商汤科技是做什么的？
-Luotuo-0.1-Output: 商汤科技是一种技术，它用于创建互联网应用程序和服务。
-Luotuo-0.3-Output: 商汤科技是一种技术，它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的产品和服务，以增加产品和服务的吸引力。它可以用于创建新的
-```
-
-```
-Input: 猫和狗的关系是什么
-Luotuo-Output: 猫和狗之间的关系是友好的。它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常很好，它们通常在一起休息或玩耍。猫和狗之间的关系通常
-```
-
-## Training
-
-We have tuned a Chinese LLaMA model baed on [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca), [Alpaca LoRA](https://github.com/tloen/alpaca-lora), [cabrita](https://github.com/22-hours/cabrita), [Japanese-Alpaca-LoRA](https://github.com/masa3141/japanese-alpaca-lora)
-
-The training code in in cleaning, if you are in very hurry, check the Japanese project and simply change the json training data file name.
-
-## Data
-
-This is an inbuilding project
-
-The training code only made a slightly change on the Japanese-Alpaca-LoRA
-
-A. [0.1 version model](https://huggingface.co/qychen/luotuo-lora-7b-0.1/tree/main) was trained on translated data, which translate the [alpaca_data.json](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) to Chinese using ChatGPT API.
-We paid around US $30-45 to translate the full dataset to chinese. Translated data is available. ([trans_chinese_alpaca_data.json](data/trans_chinese_alpaca_data.json))
-
-B. We are also plan to consider the data in [Guanaco](https://guanaco-model.github.io/) hikariming's [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) and carbonz0‘s [alpaca-chinese-dataset](https://github.com/carbonz0/alpaca-chinese-dataset), may updated it into later version.
-
-We plan to upload two different models A and B, because the provider of B claim the clean data will bring significant improvement.
 
 ## Sponsorships(赞助)
 
