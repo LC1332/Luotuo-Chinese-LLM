@@ -46,24 +46,25 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 | Training Code | To be released | Training code, run on colab |
 | Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
-## Project Exibition
+## Project Exhibition
 
 <table>
   <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="example image" style="width:250px;"></td>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="example image" style="width:200px;"></td>
     <td>
       <h2> Luotuo(骆驼) </h2>
       <p>Here is some text explaining the content of the table.</p>
+      <p>Here is some text explaining the content of the table.</p>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Example Image" width="250"></td>
+    <td>
+      <h2><a href="https://www.Dina.com"> 骆驼 </a></h2>
+      <p>这里是正文。Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed convallis mauris ac eros hendrerit commodo. Fusce eu justo in metus gravida viverra. Proin molestie, velit ac aliquam convallis, risus mi ultricies quam, at faucibus orci ligula ac ligula. </p>
     </td>
   </tr>
 
-  <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="example image" style="width:250px;"></td>
-    <td>
-      <h2> Luotuo(骆驼) </h2>
-      <p>Here is some text explaining the content of the table.</p>
-    </td>
-  </tr>
 </table>
 
 
