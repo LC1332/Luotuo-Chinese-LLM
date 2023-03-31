@@ -63,7 +63,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 
 
-+ CamelBell-C (驼铃-C) is a Chinese Text Summarization Model
++ CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ```
 Instruction: 请帮我总结以下内容:
