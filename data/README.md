@@ -69,16 +69,16 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
   <tr>
     <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="250"></td>
     <td>
-      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> 骆驼 </a></h2>
-      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B.  </p>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Scroll 丝绸卷轴 </a></h2>
+      <p> Silk Scroll  </p>
     </td>
   </tr>
 
   <tr>
     <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="250"></td>
     <td>
-      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> 骆驼 </a></h2>
-      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B.  </p>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Road 丝绸之路 </a></h2>
+      <p> Silk Road  </p>
     </td>
   </tr>
 </table>
