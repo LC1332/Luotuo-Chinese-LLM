@@ -28,7 +28,7 @@ Evaluating our model on Colab at first, which we strongly recommended.
 <table>
 
   <tr>
-    <td width= "220"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "200"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="180"></td>
     <td>
       <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
       <p> If you seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
