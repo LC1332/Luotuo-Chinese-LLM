@@ -90,6 +90,8 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 
 
+<details>
+  <summary>Example Output of Luotuo</summary>
 
 ```
 Input: 中国的首都在哪里？
@@ -101,6 +103,12 @@ Input: 华中师范大学在哪里
 Luotuo-0.1-Output: 华中师范大学位于北京
 Luotuo-0.3-Output: 华中师范大学在武汉市。
 ```
+
+</details>
+
+
+
+
 
 
 <table>
