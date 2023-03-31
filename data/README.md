@@ -51,7 +51,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 <table>
 
   <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "220"><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
     <td>
       <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
       <p> If you seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
@@ -81,7 +81,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 <table>
   <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "220"><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
       <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect tuning trans-lingual on a large language model. </p>
@@ -91,7 +91,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 <table>
   <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "220"><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Scroll 丝绸卷轴 </a></h2>
       <p> Silk Scroll  </p>
@@ -101,7 +101,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 <table>
   <tr>
-    <td><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
+    <td width= "220"><img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Luotuo-Vanilla" width="200"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Road 丝绸之路 </a></h2>
       <p> Silk Road  </p>
