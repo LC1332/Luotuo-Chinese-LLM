@@ -46,6 +46,14 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 | Training Code | To be released | Training code, run on colab |
 | Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
+## Project Exibition
+
+| | Detail |
+| --- | :--- |
+| <p align="center" width="100%">
+<img src="https://github.com/22-hours/cabrita/blob/main/assets/cabrita.png" alt="Cabrita" style="width: 20%; min-width: 300px; display: block; margin: auto;">
+</p> | Some Detail |
+
 
 ## Trained Model
 
