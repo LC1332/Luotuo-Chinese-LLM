@@ -9,8 +9,8 @@ services:
     environment:
       - JUPYTER_IP=0.0.0.0
       - JUPYTER_PORT=8888
-      - http_proxy=http://10.102.65.102:1450
-      - https_proxy=http://10.102.65.102:1450
+      # - http_proxy=
+      # - https_proxy=
       - PYPI_MIRROR=https://pypi.tuna.tsinghua.edu.cn/simple
       - TRANSFORMERS_CACHE=/workspace/.cache/huggingface/transformers/
       - HF_DATASETS_CACHE=/workspace/.cache/huggingface/
