@@ -25,8 +25,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 Evaluating our model on Colab at first, which we strongly recommended.
 
-<table border="0">
-
+<table>
   <tr>
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
