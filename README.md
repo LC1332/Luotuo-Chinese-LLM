@@ -1,4 +1,4 @@
-# 骆驼(Luotuo): Chinese-alpaca-lora
+# 骆驼(Luotuo): Open Sourced Chinese Language Models
 
 骆驼(Luotuo) is the Chinese pinyin(pronunciation) of camel
 
@@ -14,9 +14,9 @@ This is NOT an official product of SenseTime
 
 We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
-## News \[ [...](https://github.com/LC1332/Chinese-alpaca-lora/blob/main/data/previous_news.md) \]
+## News \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-3-30] We released Chinese Summarization Model, CamelBell-C (驼铃-C), try in this <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. More result see in [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
+[2023-3-30] We released Chinese Summarization Model, CamelBell-C (驼铃-C), try in this <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. More result see in [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
 
 ```
 Instruction: 请帮我总结以下内容:
@@ -41,10 +41,10 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 | Colab Link |  | detail |
 | --- | --- | :--- |
 | CamelBell quick evaluation | <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Tuoling specific Evaluation Code |
-| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
-| Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
+| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
+| Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
 | Training Code | To be released | Training code, run on colab |
-| Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
+| Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
 
 
 ## Trained Model
@@ -177,6 +177,6 @@ Please cite the repo if you use the data or code in this repo.
   year = {2023},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/LC1332/Chinese-alpaca-lora}},
+  howpublished = {\url{https://github.com/LC1332/Luotuo-Chinese-LLM}},
 }
 ```
