@@ -65,6 +65,7 @@ All funds will be used for data annotation, purchase of training computing power
 | 2023/3/30 | 杨*      | 200   | 7053.66| |
 | 2023/3/30 | 陈启源 | -79 | 6974.66 | 购买colab|
 | 2023/3/30 | 一只蒟蒻| -79 | 6895.66 | 购买colab|
+| 2023/3/30 | 冷子昂 | -428 |  | 升级colab到pro+ |
 
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
