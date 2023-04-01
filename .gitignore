@@ -1,1 +1,4 @@
 .DS_Store
+.cache
+.jupyter
+/notebook/.ipynb_checkpoints
