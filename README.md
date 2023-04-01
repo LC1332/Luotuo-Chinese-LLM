@@ -15,7 +15,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-3-31] Our evaluation code now supports multiple GPUs and utilizes the main branch of Hugging Face's Transformers library.
+[2023-4-1] Our evaluation code now supports multiple GPUs and utilizes the main branch of Hugging Face's Transformers library.
 
 [2023-3-31] New Project Page.
 
@@ -167,7 +167,7 @@ TODO: add md to describe each contributor
 | --- | --- | --- | --- |
 | 李鲁鲁 | Founder | 冷子昂 | Founder |
 | 陈启源 | Founder | Juro | |
-| 黄弘森 | Contributor | HF | |
+| 黄泓森 | Contributor | HF | |
 
 
 ## TODO and Be a Contributor
