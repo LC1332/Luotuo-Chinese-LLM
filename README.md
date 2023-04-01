@@ -15,6 +15,8 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
+[2023-3-31] Our evaluation code now supports multiple GPUs and utilizes the main branch of Hugging Face's Transformers library.
+
 [2023-3-31] New Project Page.
 
 [2023-3-30] We released Chinese Summarization Model, CamelBell-C (驼铃-C), try in this <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. More result see in [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
@@ -165,7 +167,7 @@ TODO: add md to describe each contributor
 | --- | --- | --- | --- |
 | 李鲁鲁 | Founder | 冷子昂 | Founder |
 | 陈启源 | Founder | Juro | |
-| HS | | HF | |
+| 黄弘森 | Contributor | HF | |
 
 
 ## TODO and Be a Contributor
