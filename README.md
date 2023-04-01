@@ -40,7 +40,7 @@ CamelBell-B (驼铃-B) will be [ChatHarryPotter](https://github.com/LC1332/Camel
 
 
 <details>
-  <summary>Example Output of CamelBell-B (click me)</summary>
+  <summary>Example Output of CamelBell-B (click on me)</summary>
 
 ```
 Instruction: 斯内普和伏地魔之间是什么关系?
@@ -55,7 +55,7 @@ CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://co
 
 
 <details>
-  <summary>Example Output of CamelBell-C (click me)</summary>
+  <summary>Example Output of CamelBell-C (click on me)</summary>
 
 ```
 Instruction: 请帮我总结以下内容:
@@ -87,12 +87,12 @@ Check Evaluation Code Here <a href="https://colab.research.google.com/github/LC1
 
 An Interface Demo via Gradio Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Luotuo 1.0 is still in training, because distribute on local server taking us sometime, still many bugs need to be fix.
+Luotuo 1.0 is still in training, distributing on local servers taking us sometime, many bugs need to be fixed.
 
 
 
 <details>
-  <summary>Example Output of Luotuo (click me)</summary>
+  <summary>Example Output of Luotuo (click on me)</summary>
 
 ```
 Input: 中国的首都在哪里？
@@ -116,8 +116,8 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
   <tr>
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
-      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Scroll 丝绸卷轴 </a></h2>
-      <p> The silk scroll will record the Magic Prompt on some very Large LLMs. We hope that in some day, Luotuo trained models can adapt to diverse Prompt Tasks also.  </p>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Magic Book 丝绸魔法书 </a></h2>
+      <p> The Silk Magic Book will record the Magic Prompt on some very Large LLMs. We hope that in some day, Luotuo trained models can adapt to diverse Prompt Tasks also.  </p>
     </td>
   </tr>
 </table>
