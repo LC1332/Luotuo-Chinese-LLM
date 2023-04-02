@@ -15,9 +15,9 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 ## News \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-1] Added [docker files](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) and also added a [tutorial](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md) on docker deployment.
+[2023-4-2] We have first version of [Magic Silk Book](https://github.com/LC1332/Luotuo-Silk-Magic-Book), which recording many prompts on Wenxin \& GPT.
 
-[2023-4-1] Our evaluation code now supports multiple GPUs and utilizes the main branch of Hugging Face's Transformers library.
+[2023-4-1] Added [docker files](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) and also added a [tutorial](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md) on docker deployment.
 
 [2023-3-31] New Project Page.
 
