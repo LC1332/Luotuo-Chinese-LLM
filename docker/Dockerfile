@@ -10,8 +10,10 @@ RUN dos2unix /workspace/entrypoint.sh \
 
 FROM nvidia/cuda:11.8.0-devel-ubuntu22.04
 
-ENV XDG_CACHE_HOME=/workspace/.cache/ \
-    JUPYTERLAB_SETTINGS_DIR=/workspace/.jupyter/lab/user-settings/ 
+ENV XDG_CACHE_HOME=/workspace/.cache \
+    HF_DATASETS_CACHE=/workspace/.cache/huggingface/datasets \
+    TRANSFORMERS_CACHE=/workspace/.cache/huggingface/transformers \
+    JUPYTERLAB_SETTINGS_DIR=/workspace/.jupyter/lab/user-settings
 
 RUN apt-get update \
     && apt-get upgrade -y \
