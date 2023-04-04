@@ -114,8 +114,6 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 
 
-
-
 <table>
   <tr>
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Luotuo-Vanilla" width="160"></td>
