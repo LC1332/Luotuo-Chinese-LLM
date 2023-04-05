@@ -162,7 +162,9 @@ All funds will be used for data annotation, purchase of training computing power
 
 ## Contributors
 
-TODO: add md to describe each contributor
+We are start to recording the contribution in [contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md), which will detaily record each one's contribution on each milestone.
+
+And there will be a table with both each contributor's name, afflication and profile image.
 
 | N     | C     | N | C |
 | --- | --- | --- | --- |
