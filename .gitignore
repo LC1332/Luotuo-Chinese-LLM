@@ -1,4 +1,6 @@
-.DS_Store
+.venv
 .cache
 .jupyter
+.DS_Store
+pyproject.toml
 /notebook/.ipynb_checkpoints
