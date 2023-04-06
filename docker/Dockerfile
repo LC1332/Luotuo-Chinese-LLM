@@ -18,7 +18,10 @@ ENV XDG_CACHE_HOME=/workspace/.cache \
 RUN apt-get update \
     && apt-get upgrade -y \
     && apt-get install curl wget build-essential python3 python3-pip git vim -y \
-    && ln -s /usr/bin/python3 /usr/bin/python
+    && ln -s /usr/bin/python3 /usr/bin/python \
+    && curl -fsSL https://install.python-poetry.org | python - \
+    && ln -s /$HOME/.local/bin/poetry /usr/bin \
+    && poetry config virtualenvs.in-project true
 
 COPY --from=res /workspace/entrypoint.sh /entrypoint.sh
 
