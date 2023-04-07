@@ -1,6 +1,6 @@
-[**English**](./README.md) | [**中文**](./README_CH.md)
+[**English**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [**中文**](./README_CH.md)
 
-# 骆驼(Luotuo): Open Sourced Chinese Language Models
+# 骆驼(Luotuo): 开源中文大语言模型
 
 Project 骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技
 

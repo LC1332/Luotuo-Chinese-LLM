@@ -1,4 +1,4 @@
-[**English**](./README.md) | [**中文**](./README_CH.md)
+[**English**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [**中文**](./README_CH.md)
 
 # 骆驼(Luotuo): Open Sourced Chinese Language Models
 
