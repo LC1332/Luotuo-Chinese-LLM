@@ -150,7 +150,7 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 <a name="sponsorship"></a>
 
-## Sponsorships(赞助)
+## 赞助(Sponsorships)
 
 Top 3 Sponsors
 
@@ -174,7 +174,7 @@ This was originally an exercise project for us, and we originally planned to tra
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
-## Contributors
+## 贡献者(Contributors)
 
 We are start to recording the contribution in [contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md), which will detaily record each one's contribution on each milestone.
 
