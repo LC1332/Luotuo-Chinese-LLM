@@ -27,7 +27,7 @@ juruo, hs, chenqy
 
 ### C model (Summarization)
 
-李鲁鲁, 冷子昂, chenqy
+李鲁鲁, 冷子昂, chenqy, hs
 
 
 ### D model
