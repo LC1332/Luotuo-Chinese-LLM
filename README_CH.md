@@ -16,7 +16,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-2] We have first version of [Magic Silk Book](https://github.com/LC1332/Luotuo-Silk-Magic-Book), which recording many prompts on Wenxin \& GPT.
+[2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).
 
 [2023-4-1] Added [docker files](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) and also added a [tutorial](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md) on docker deployment.
 
