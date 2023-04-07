@@ -5,10 +5,10 @@ Top 3 Sponsors
 |Time    | Sponsor     | Amount |
 | --- | --- | --- | 
 | 2023/3/28 | 张** | 2000 |
+| 2023/4/6 | 孙** | 1024|
 | 2023/4/4| 王*| 768|
-| 2023/4/2 | 王**| 666 |
 
-balance = 7916.66  now
+balance =  7706  now
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
@@ -23,7 +23,6 @@ This was originally an exercise project for us, and we originally planned to tra
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
 ## Balance
-
 | Time| Operator| Item | Balance | Event |
 | --- | --- | --- | --- | --- |
 |  | 李鲁鲁 | -280 | -280 | 购买colab |
@@ -73,9 +72,11 @@ All funds will be used for data annotation, purchase of training computing power
 | 2023/4/2 | Hijun| 30 | 6962.66 | |
 | 2023/4/2 | 王**| 666 | 7628.66 | |
 | 2023/4/3| Sirly| -480| 7148.66 |colab充值|
-| 2023/4/4| 王*| 768| 7916.66 | |
-
-
+| 2023/4/4| Hanson·🐑 |628.34| 7777| |
+| 2023/4/4| 王*|768 | 8545| |
+| 2023/4/5| 陈启源 | -2063| 6482 | OpenAI数据标注|
+| 2023/4/6| 孙**|1024| 7506| |
+| 2023/4/6| **宇|200| 7706| |
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
 * openAI买了60美金，实际使用了35美金，还有一些剩余可以继续调用

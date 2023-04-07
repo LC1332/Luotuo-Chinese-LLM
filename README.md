@@ -27,9 +27,9 @@
 [2023-3-27] 我们计划训练一个[**Chat哈利波特**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们仅仅完成了初步的实验并实现了0.1版本的模型, 不过模型的效果不及我们的预期, 可以查看[这份报告](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们想寻找一个 **哈利波特的狂热粉丝同时又是高质量的Python程序员** 来参与到项目中，可以联系我们。
 
 
-## 快速上手
-
 <a name="quickstart"></a>
+
+## 快速上手
 
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
@@ -148,19 +148,19 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 </table>
 
 
-## Sponsorships(赞助)
-
 <a name="sponsorship"></a>
+
+## Sponsorships(赞助)
 
 Top 3 Sponsors
 
 |Time    | Sponsor     | Amount |
 | --- | --- | --- | 
 | 2023/3/28 | 张** | 2000 |
+| 2023/4/6 | 孙** | 1024|
 | 2023/4/4| 王*| 768|
-| 2023/4/2 | 王**| 666 |
 
-balance = 7916.66 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+balance = 7706 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
