@@ -132,7 +132,7 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Luotuo-Silk-Magic-Book"> Silk Magic Book 丝绸魔法书 </a></h2>
-      <p> The Silk Magic Book will record the Magic Prompt on some very Large LLMs. We hope that in some day, Luotuo trained models can adapt to diverse Prompt Tasks also.  </p>
+      <p> 丝绸魔法书记录了大语言模型的一些魔法提示词(prompt)。我们希望有一天，骆驼项目自己训练的语言模型，也能适配很复杂任务的prompt。  </p>
     </td>
   </tr>
 </table>
