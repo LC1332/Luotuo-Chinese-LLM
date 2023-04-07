@@ -102,7 +102,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 一个使用Gradio搭建的交互界面 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Luotuo 1.0 is still in training, distributing on local servers taking us sometime, many bugs need to be fixed.
+我们还在完善骆驼1.0的训练数据和修复bug，并且在后续的版本中，我们将研究如何修复骆驼的Tokenizer。
 
 
 
