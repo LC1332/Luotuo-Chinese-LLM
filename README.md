@@ -66,11 +66,11 @@ Answer: 斯内普和伏地魔之间是非常复杂的关系。伏地魔是斯内
 
 
 
-CamelBell-C (驼铃-C) is a Chinese Text Summarization Model <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+CamelBell-C (驼铃-C)是一个中文文本摘要模型 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 <details>
-  <summary>Example Output of CamelBell-C (click on me)</summary>
+  <summary>CamelBell-C的输出样例 (点我)</summary>
 
 ```
 Instruction: 请帮我总结以下内容:
@@ -93,14 +93,14 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
-      <p> Luotuo-Vanilla is first repo in Project Luotuo, which finetuned Chinese on LLaMA-7B. The original purpose of Luotuo is to invesgating the effect that tuning trans-lingual data on a large language model. </p>
+      <p> Luotuo-Vanilla是骆驼项目的第一个github仓库, 它是在LLaMA-7B上进行微调的。骆驼项目的初始目标，是研究使用跨语言数据在进行微调时，大语言模型发生的相关现象。 </p>
     </td>
   </tr>
 </table>
 
-Check Evaluation Code Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+测试代码 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
-An Interface Demo via Gradio Here <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+一个使用Gradio搭建的交互界面 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Luotuo 1.0 is still in training, distributing on local servers taking us sometime, many bugs need to be fixed.
 
