@@ -12,9 +12,9 @@
 
 骆驼项目**不是**商汤科技的官方产品。
 
-We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
+我们将项目命名为 骆驼 Luotuo (Camel) 主要是因为，Meta之前的项目LLaMA（驼马）和斯坦福之前的项目alpaca(羊驼)都属于偶蹄目-骆驼科（Artiodactyla-Camelidae）。而且骆驼科只有三个属，再不起这名字就来不及了。
 
-## News \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
+## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
 [2023-4-2] We have first version of [Magic Silk Book](https://github.com/LC1332/Luotuo-Silk-Magic-Book), which recording many prompts on Wenxin \& GPT.
 
