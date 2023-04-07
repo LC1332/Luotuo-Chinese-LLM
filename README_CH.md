@@ -37,7 +37,7 @@
 
 ## 项目概览
 
-Evaluating our model on Colab at first, which we strongly recommended.
+我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
 
 <table>
   <tr>
