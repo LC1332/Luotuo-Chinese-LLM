@@ -2,7 +2,7 @@
 
 # 骆驼(Luotuo): 开源中文大语言模型
 
-Project 骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技
+骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技
 
 ( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
