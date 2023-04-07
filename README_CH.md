@@ -27,8 +27,6 @@
 
 ## 快速上手
 
-## A Quick Start
-
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
 | 驼铃C 文本摘要| <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 基于GLM-6B的文本摘要模型 |
@@ -37,7 +35,7 @@
 | 骆驼0.3 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼0.3的验证代码 |
 | 骆驼说 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | 一个用Gradio写的交互对话 |
 
-## A Quick Start
+## 项目概览
 
 Evaluating our model on Colab at first, which we strongly recommended.
 
