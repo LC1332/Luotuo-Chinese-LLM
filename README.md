@@ -1,4 +1,4 @@
-[**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM)
+[**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [快速上手](#quickstart) | [赞助](#sponsorship)
 
 # 骆驼(Luotuo): 开源中文大语言模型
 
@@ -28,6 +28,8 @@
 
 
 ## 快速上手
+
+<a name="quickstart"></a>
 
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
@@ -107,7 +109,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 
 <details>
-  <summary>Example Output of Luotuo (click on me)</summary>
+  <summary>骆驼0.3 的输出样例 (点我)</summary>
 
 ```
 Input: 中国的首都在哪里？
@@ -148,6 +150,7 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 ## Sponsorships(赞助)
 
+<a name="sponsorship"></a>
 
 Top 3 Sponsors
 
