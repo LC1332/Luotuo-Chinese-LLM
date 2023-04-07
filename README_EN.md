@@ -1,61 +1,51 @@
 [**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM)
 
-# 骆驼(Luotuo): 开源中文大语言模型
+# 骆驼(Luotuo): Open Sourced Chinese Language Models
 
-骆驼(Luotuo)项目是由冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 以及 李鲁鲁 @ 商汤科技 发起的中文大语言模型开源项目，包含了一系列语言模型。
+Project 骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技
 
-( 注意: _[陈启源](https://qiyuan-chen.github.io/) 正在寻找国内推博的岗位 )
+( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
 
 <p align="center">
   <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/camel_back.png">
 </p>
 
-骆驼项目**不是**商汤科技的官方产品。
 
-我们将项目命名为 骆驼 Luotuo (Camel) 主要是因为，Meta之前的项目LLaMA（驼马）和斯坦福之前的项目alpaca(羊驼)都属于偶蹄目-骆驼科（Artiodactyla-Camelidae）。而且骆驼科只有三个属，再不起这名字就来不及了。
+This is NOT an official product of SenseTime
 
-## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
+We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
-[2023-4-3] 开始将README翻译成中文，英语的README移动到README_EN.md
+## News \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).
+[2023-4-7] Starting write Chinese Page 在顶部链接可以发现逐步开始构建的中文README
 
-[2023-4-1] 对于不使用colab的用户，我们增加了[docker部署](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) 并且为之编写了 [教程](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md).
+[2023-4-2] We have first version of [Magic Silk Book](https://github.com/LC1332/Luotuo-Silk-Magic-Book), which recording many prompts on Wenxin \& GPT.
 
-[2023-3-30] 我们发布了中文摘要模型 CamelBell-C (驼铃-C), 可以在这里体验-> <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. 更多结果见 [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
+[2023-4-1] Added [docker files](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) and also added a [tutorial](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md) on docker deployment.
 
-[2023-3-27] 我们计划训练一个[**Chat哈利波特**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们仅仅完成了初步的实验并实现了0.1版本的模型, 不过模型的效果不及我们的预期, 可以查看[这份报告](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们想寻找一个 **哈利波特的狂热粉丝同时又是高质量的Python程序员** 来参与到项目中，可以联系我们。
+[2023-3-30] We released Chinese Summarization Model, CamelBell-C (驼铃-C), try in this <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. More result see in [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
 
 
-## 快速上手
 
-|  | Colab链接 | 细节 |
-| --- | --- | :--- |
-| 驼铃C 文本摘要| <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 基于GLM-6B的文本摘要模型 |
-| 驼铃B Chat哈利波特 | - | [Chat哈利波特的初步汇报](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md) |
-| 驼铃A | <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 通过80条语料给GLM-6B简易洗脑 |
-| 骆驼0.3 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼0.3的验证代码 |
-| 骆驼说 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | 一个用Gradio写的交互对话 |
+## A Quick Start
 
-## 项目概览
-
-我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
+Evaluating our model on Colab at first, which we strongly recommended.
 
 <table>
   <tr>
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_camelbell.png" alt="Luotuo-Vanilla" width="160"></td>
     <td>
       <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
-      <p> 如果你希望模型在中文上有更好的表现，建议使用 CamelBell(驼铃), 这个项目在中文基模型Chat-GLM-6B的基础上继续使用中文语料进行训练。 </p>
+      <p> If you are seeking a better performance on Chinese, check CamelBell(驼铃), which finetuned Chinese data on Chinese base model Chat-GLM-6B. </p>
     </td>
   </tr>
 </table>
 
-在驼铃-B(CamelBell-B)中我们将训练一个[Chat哈利波特](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md)
+CamelBell-B (驼铃-B) will be [ChatHarryPotter](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md)
 
 
 <details>
-  <summary>CamelBell-B的输出样例 (点我) </summary>
+  <summary>Example Output of CamelBell-B (click on me)</summary>
 
 ```
 Instruction: 斯内普和伏地魔之间是什么关系?
