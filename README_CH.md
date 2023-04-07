@@ -2,16 +2,15 @@
 
 # 骆驼(Luotuo): 开源中文大语言模型
 
-骆驼(Luotuo) was founded by 冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技
+骆驼(Luotuo)项目是由冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 and 李鲁鲁 @ 商汤科技 发起的中文大语言模型开源项目，包含了一系列语言模型。
 
-( Notice: _[陈启源](https://qiyuan-chen.github.io/) is now pursuing a PhD position_)
+( 注意: _[陈启源](https://qiyuan-chen.github.io/) 正在寻找国内推博的岗位 )
 
 <p align="center">
   <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/camel_back.png">
 </p>
 
-
-This is NOT an official product of SenseTime
+骆驼项目**不是**商汤科技的官方产品。
 
 We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs to Artiodactyla-Camelidae(偶蹄目-骆驼科)
 
