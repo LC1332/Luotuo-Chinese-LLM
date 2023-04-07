@@ -22,7 +22,7 @@
 
 [2023-3-30] 我们发布了中文摘要模型 CamelBell-C (驼铃-C), 可以在这里体验-> <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. 更多结果见 [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
 
-[2023-3-27] 我们计划训练一个[**Chat哈利波特**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们仅仅完成了初步的实验并实现了0.1版本的模型, 不过模型的效果不及我们的预期, 可以查看[这份报告](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), and we are pursuing **a Harry Potter enthusiast Pythoner to join**.
+[2023-3-27] 我们计划训练一个[**Chat哈利波特**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们仅仅完成了初步的实验并实现了0.1版本的模型, 不过模型的效果不及我们的预期, 可以查看[这份报告](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们想寻找一个 **哈利波特的狂热粉丝同时又是高质量的Python程序员** 来参与到项目中，可以联系我们。
 
 
 ## A Quick Start
