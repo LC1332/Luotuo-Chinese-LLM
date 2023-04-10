@@ -200,7 +200,9 @@ All funds will be used for data annotation, purchase of training computing power
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | ChatGLM-6B 是清华唐杰老师实验室释放出来的中文大语言(小)模型 |
 | [ptuning-v2](https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning) | ptuning-v2是清华唐杰老师实验室发布对GLM的一种微调方法，实现了他们本身发布的p-tuning-v2的论文的方法 |
 |[GLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) | <a href="https://colab.research.google.com/github/mymusise/ChatGLM-Tuning/blob/master/examples/finetune.ipynb"><img alt="Build" src="https://colab.research.google.com/assets/colab-badge.svg"></a> 这是[Chengxi Guo](https://github.com/mymusise)等同学实现的GLM微调，最新的版本中同时支持了LoRA和p-tuning |
-
+|[Alpaca](https://github.com/tatsu-lab/stanford_alpaca) | Alpaca是斯坦福在LLaMA上微调对话指令的项目，是万恶之源 |
+|[Alpaca-LoRA](https://github.com/tloen/alpaca-lora) | 这个项目开启了LLaMA模型上的LoRA微调，万恶之源2 |
+|[Alpaca-ChToken](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 复旦的Yiming Cui和Ziqing Yang修复了Alpaca的中文token问题，在原来的LLaMA英文token边上并了一个中文的token，我们想把这个项目整合到整体训练里，还没做完 |
 
 | 数据与下游任务 | 详情 |
 | --- | --- |
