@@ -6,21 +6,21 @@
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 1" height="200">
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 1" height="150">
       <br>
       <b> 李鲁鲁 @ 商汤科技 </b>
       <br>
       李鲁鲁 是骆驼项目的发起人之一
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/25675774?v=4" alt="Contributor 2" height="200">
+      <img src="https://avatars.githubusercontent.com/u/25675774?v=4" alt="Contributor 2" height="150">
       <br>
       <b>冷子昂 @ 商汤科技</b>
       <br>
       冷子昂 是骆驼项目的发起人之一
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 3" height="200">
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 3" height="150">
       <br>
       <b>陈启源 @ 华中师范大学 </b>
       <br>
@@ -29,21 +29,21 @@
   </tr>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 4" height="200">
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 4" height="150">
       <br>
       <b>某某某@某机构</b>
       <br>
       这里是 Contributor 4 的详细信息...
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 5" height="200">
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 5" height="150">
       <br>
       <b>某某某@某机构</b>
       <br>
       这里是 Contributor 5 的详细信息...
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 6" height="200">
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 6" height="150">
       <br>
       <b>某某某@某机构</b>
       <br>
