@@ -39,7 +39,7 @@
       黄泓森 维护了docker和项目环境
     </td>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 5" height="150">
+      <img src="https://avatars.githubusercontent.com/u/28683036?v=4" alt="Contributor 5" height="150">
       <br>
       <b>Juruo@华中师范</b>
       <br>
@@ -56,9 +56,9 @@
 
   <tr>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 5" height="150">
+      <img src="https://avatars.githubusercontent.com/u/34046462?s=400&u=fb9f92b791dcffb7c37d8f3f3d99eac38379c663&v=4" alt="Contributor 5" height="150">
       <br>
-      <b>刘思祎@Upenn博士</b>
+      <b>刘思祎@Upenn</b>
       <br>
       刘思祎 正在参与一些后续项目
     </td>
