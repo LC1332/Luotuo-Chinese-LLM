@@ -19,15 +19,15 @@ juruo, hs, chenqy
 
 ### A model
 
-李鲁鲁, 冷子昂, chenqy
+李鲁鲁, 冷子昂, 陈启源
 
 ### B model (ChatHarryPotter)
 
-李鲁鲁, 冷子昂, chenqy
+李鲁鲁, 冷子昂, 陈启源
 
 ### C model (Summarization)
 
-李鲁鲁, 冷子昂, chenqy, hs
+李鲁鲁, 冷子昂, 陈启源, 黄泓森
 
 
 ### D model
