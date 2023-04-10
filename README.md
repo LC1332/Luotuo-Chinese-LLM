@@ -174,21 +174,6 @@ This was originally an exercise project for us, and we originally planned to tra
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
-<a name="contributors"></a>
-
-## 贡献者(Contributors)
-
-我们会把每个贡献者的贡献记录在[contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md)，包括每个项目每个成员的具体任务分配和贡献。
-
-我打算有时间的话在这里增加一个表格记录每个贡献者的名字、单位（如有）和github的头像。
-
-| N     | C     | N | C |
-| --- | --- | --- | --- |
-| 李鲁鲁 | Founder | 冷子昂 | Founder |
-| 陈启源 | Founder | Juro | |
-| 黄泓森 | Contributor | HF | |
-
-
 <a name="related"></a>
 
 ## 相关项目
@@ -210,6 +195,63 @@ All funds will be used for data annotation, purchase of training computing power
 | --- | --- |
 | [Guanaco](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset) | Guanaco是JosephusCheung制作的一套指令调优的数据集，在骆驼0.3以上版本的模型中我们使用了这个数据。 |
 | [CNewSum](https://dqwang122.github.io/projects/CNewSum/) | CNewSum是字节与UCSB发布的中文摘要数据集，我们在驼铃-C模型中使用了这个数据集 |
+
+
+<a name="contributors"></a>
+
+## 贡献者(Contributors)
+
+我们会把每个贡献者的贡献记录在[contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md)，包括每个项目每个成员的具体任务分配和贡献。
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 1" height="150">
+      <br>
+      <b> 李鲁鲁 @ 商汤科技 </b>
+      <br>
+      李鲁鲁 是骆驼项目的发起人之一
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/25675774?v=4" alt="Contributor 2" height="150">
+      <br>
+      <b>冷子昂 @ 商汤科技</b>
+      <br>
+      冷子昂 是骆驼项目的发起人之一
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/72334646?v=4" alt="Contributor 3" height="150">
+      <br>
+      <b>陈启源 @ 华中师范大学 </b>
+      <br>
+      陈启源 是骆驼项目的发起人之一
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="" alt="Contributor 4" height="150">
+      <br>
+      <b>黄泓森@华中师范</b>
+      <br>
+      黄泓森
+    </td>
+    <td>
+      <img src="" alt="Contributor 5" height="150">
+      <br>
+      <b>Juruo@华中师范</b>
+      <br>
+      Juruo
+    </td>
+    <td>
+      <img src="" alt="Contributor 6" height="150">
+      <br>
+      <b>年</b>
+      <br>
+      年
+    </td>
+  </tr>
+</table>
 
 
 ## Citation

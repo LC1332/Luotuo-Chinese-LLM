@@ -29,28 +29,29 @@
   </tr>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 4" height="150">
+      <img src="" alt="Contributor 4" height="150">
       <br>
-      <b>某某某@某机构</b>
+      <b>黄泓森@华中师范</b>
       <br>
-      这里是 Contributor 4 的详细信息...
+      黄泓森
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 5" height="150">
+      <img src="" alt="Contributor 5" height="150">
       <br>
-      <b>某某某@某机构</b>
+      <b>Juruo@华中师范</b>
       <br>
-      这里是 Contributor 5 的详细信息...
+      Juruo
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 6" height="150">
+      <img src="" alt="Contributor 6" height="150">
       <br>
-      <b>某某某@某机构</b>
+      <b>年</b>
       <br>
-      这里是 Contributor 6 的详细信息...
+      年
     </td>
   </tr>
 </table>
+
 
 
 
