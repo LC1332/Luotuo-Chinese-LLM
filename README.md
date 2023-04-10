@@ -19,7 +19,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-3] 开始将README翻译成中文，英语的README移动到README_EN.md
+[2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab理应被修复了。
 
 [2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).
 

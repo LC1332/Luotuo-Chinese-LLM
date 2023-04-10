@@ -1,5 +1,7 @@
 ## News \[...\]
 
+[2023-4-3] 开始将README翻译成中文，英语的README移动到README_EN.md
+
 [2023-3-31] New Project Page.
 
 [2023-3-30] We released Chinese Summarization Model, CamelBell-C (驼铃-C), try in this <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. More result see in [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
