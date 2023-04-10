@@ -3,6 +3,6 @@
 .vscode
 .jupyter
 .DS_Store
-/notebook
+/notebook/*
 pyproject.toml
 !/notebook/*.ipynb
