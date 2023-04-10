@@ -229,7 +229,7 @@ All funds will be used for data annotation, purchase of training computing power
       冷子昂 是骆驼项目的发起人之一
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/72334646?v=4" alt="Contributor 3" height="150">
+      <img src="https://github.com/accounthttps://avatars.githubusercontent.com/u/72334646?s=400&u=99703abd53d62040b1adb7709b0499abd13c60cb&v=4" alt="Contributor 3" height="150">
       <br>
       <b>陈启源 @ 华中师范大学 </b>
       <br>
