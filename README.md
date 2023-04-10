@@ -198,7 +198,7 @@ All funds will be used for data annotation, purchase of training computing power
 | Name | Colab | Detail |
 | --- | --- | --- |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | | ChatGLM-6B 是清华唐杰老师实验室释放出来的中文大语言(小)模型 |
-| [GLM-6B-ptuning](https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning) | | ptuning-v2是清华唐杰老师实验室发布对GLM的一种微调方法，实现了他们本身发布的p-tuning-v2的论文的方法 |
+| [ptuning-v2](https://github.com/THUDM/ChatGLM-6B/tree/main/ptuning) | | ptuning-v2是清华唐杰老师实验室发布对GLM的一种微调方法，实现了他们本身发布的p-tuning-v2的论文的方法 |
 |[GLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) | <a href="https://colab.research.google.com/github/mymusise/ChatGLM-Tuning/blob/master/examples/finetune.ipynb"><img alt="Build" src="https://colab.research.google.com/assets/colab-badge.svg"></a> | 这是[Chengxi Guo](https://github.com/mymusise)等同学实现的GLM微调，最新的版本中同时支持了LoRA和p-tuning |
 
 
