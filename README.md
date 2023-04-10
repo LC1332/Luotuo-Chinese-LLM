@@ -203,6 +203,7 @@ All funds will be used for data annotation, purchase of training computing power
 
 我们会把每个贡献者的贡献记录在[contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md)，包括每个项目每个成员的具体任务分配和贡献。
 
+这里的表格仅列出每个人的主要贡献，更具体的内容请参考contributions.md
 
 <table>
   <tr>
@@ -230,25 +231,25 @@ All funds will be used for data annotation, purchase of training computing power
   </tr>
   <tr>
     <td>
-      <img src="" alt="Contributor 4" height="150">
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 4" height="150">
       <br>
       <b>黄泓森@华中师范</b>
       <br>
-      黄泓森
+      黄泓森 维护了docker和项目环境
     </td>
     <td>
-      <img src="" alt="Contributor 5" height="150">
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 5" height="150">
       <br>
       <b>Juruo@华中师范</b>
       <br>
-      Juruo
+      Juruo 正在参与一些后续项目
     </td>
     <td>
-      <img src="" alt="Contributor 6" height="150">
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 6" height="150">
       <br>
-      <b>年</b>
+      <b>陈舒年@杜克大学</b>
       <br>
-      年
+      陈舒年 正在做ChatYisheng
     </td>
   </tr>
 </table>
