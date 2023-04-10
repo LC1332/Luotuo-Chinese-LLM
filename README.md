@@ -204,10 +204,13 @@ All funds will be used for data annotation, purchase of training computing power
 |[Alpaca-LoRA](https://github.com/tloen/alpaca-lora) | 这个项目开启了LLaMA模型上的LoRA微调，万恶之源2 |
 |[Alpaca-ChToken](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 复旦的Yiming Cui和Ziqing Yang修复了Alpaca的中文token问题，在原来的LLaMA英文token边上并了一个中文的token，我们想把这个项目整合到整体训练里，还没做完 |
 |[BELLE-7B](https://github.com/LianjiaTech/BELLE)| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LianjiaTech/BELLE/blob/main/notebook/BELLE_INFER_COLAB.ipynb) BELLE是贝壳(链家)放出来的中文大模型，我们之后会尝试在这上面做微调。在一个合适的定量benchmark建立以后，我们会对比各个单卡大模型之间的性能。|
+|[RWKV-LM](https://github.com/BlinkDL/RWKV-LM)|RWKV也是一套语言模型的训练架构|
 
 | 数据与下游任务 | 详情 |
 | --- | --- |
-| Guanaco | --- |
+| [Guanaco](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset) | Guanaco是JosephusCheung制作的一套指令调优的数据集，在骆驼0.3以上版本的模型中我们使用了这个数据。 |
+| [CNewSum](https://dqwang122.github.io/projects/CNewSum/) | CNewSum是字节与UCSB发布的中文摘要数据集，我们在驼铃-C模型中使用了这个数据集 |
+
 
 ## Citation
 
