@@ -235,7 +235,7 @@ All funds will be used for data annotation, purchase of training computing power
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 4" height="150">
+      <img src="https://avatars.githubusercontent.com/u/45280500" alt="Contributor 4" height="150">
       <br>
       <b>黄泓森@华中师范</b>
       <br>
