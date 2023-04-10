@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/5266090?v=4"></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/5266090?v=4" height="300"></td>
     <td><strong>李鲁鲁 @ 商汤科技</strong><br>详细信息</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/用户ID"></td>
     <td><strong>姓名</strong><br>详细信息</td>
