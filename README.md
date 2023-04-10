@@ -239,16 +239,16 @@ All funds will be used for data annotation, purchase of training computing power
     <td>
       <img src="https://avatars.githubusercontent.com/u/45280500" alt="Contributor 4" height="150">
       <br>
-      <b>黄泓森@华中师范</b>
+      <b>黄泓森 @ 华中师范大学</b>
       <br>
       黄泓森 维护了docker和项目环境
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/28683036?v=4" alt="Contributor 5" height="150">
       <br>
-      <b>Juruo@华中师范</b>
+      <b>胡婧 @ 华中师范大学</b>
       <br>
-      Juruo 正在参与一些后续项目
+      胡婧 正在参与一些后续项目
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/40827070?s=400&u=ab66832b0821cf43840ceba64a137da5089afe28&v=4" alt="Contributor 6" height="150">
