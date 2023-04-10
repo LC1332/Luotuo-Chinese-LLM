@@ -1,6 +1,7 @@
+<a name="BigTitle"></a>
+
 [**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [快速上手](#quickstart) | [赞助](#sponsorship) | [赞助](#sponsorship) | [人员和贡献](#contributors) |  [相关项目](#related)
 
-<a name="BigTitle"></a>
 
 # 骆驼(Luotuo): 开源中文大语言模型
 
