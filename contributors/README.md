@@ -20,7 +20,7 @@
       冷子昂 是骆驼项目的发起人之一
     </td>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 3" height="150">
+      <img src="https://avatars.githubusercontent.com/u/72334646?v=4" alt="Contributor 3" height="150">
       <br>
       <b>陈启源 @ 华中师范大学 </b>
       <br>
