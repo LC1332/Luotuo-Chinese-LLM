@@ -198,6 +198,7 @@ All funds will be used for data annotation, purchase of training computing power
 | --- | --- |
 | [Guanaco](https://huggingface.co/datasets/JosephusCheung/GuanacoDataset) | Guanaco是JosephusCheung制作的一套指令调优的数据集，在骆驼0.3以上版本的模型中我们使用了这个数据。 |
 | [CNewSum](https://dqwang122.github.io/projects/CNewSum/) | CNewSum是字节与UCSB发布的中文摘要数据集，我们在驼铃-C模型中使用了这个数据集 |
+| [Coco-CN](https://github.com/li-xirong/coco-cn) | 这是中国人民大学的li-xirong等翻译的部分Coco数据集，**骆驼团队正在准备用GPT翻译完整的Coco,如果你也准备翻译，可以联系我们，避免重复花钱** |
 
 
 <a name="contributors"></a>
