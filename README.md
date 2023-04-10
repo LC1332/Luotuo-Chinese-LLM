@@ -268,7 +268,7 @@ All funds will be used for data annotation, purchase of training computing power
       刘思祎 正在参与一些后续项目
     </td>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 4" height="150">
+      <img src="https://avatars.githubusercontent.com/u/52043573?s=400&u=21a6a45547a06472457a7d852f1894825b9d7794&v=4" alt="Contributor 4" height="150">
       <br>
       <b>孙骜@清华大学</b>
       <br>
