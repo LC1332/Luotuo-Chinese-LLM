@@ -7,7 +7,7 @@
 
 骆驼(Luotuo)项目是由冷子昂 @ 商汤科技, 陈启源 @ 华中师范大学 以及 李鲁鲁 @ 商汤科技 发起的中文大语言模型开源项目，包含了一系列语言模型。
 
-( 注意: _[陈启源](https://qiyuan-chen.github.io/) 正在寻找国内推博的岗位 )
+( 注意: [陈启源](https://qiyuan-chen.github.io/) 正在寻找2024推免导师，欢迎联系 )
 
 <p align="center">
   <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/camel_back.png">
@@ -19,7 +19,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab理应被修复了。
+[2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab和notebook也完成了修复。（如果遇到了bug请在issue中报告）
 
 [2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).
 
