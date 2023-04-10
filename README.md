@@ -1,4 +1,4 @@
-[**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [快速上手](#quickstart) | [赞助](#sponsorship)
+[**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [快速上手](#quickstart) | [赞助](#sponsorship) | [赞助](#sponsorship) | [人员和贡献](#contributors) |  [相关项目](#related)
 
 # 骆驼(Luotuo): 开源中文大语言模型
 
@@ -174,6 +174,8 @@ This was originally an exercise project for us, and we originally planned to tra
 
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
+<a name="contributors"></a>
+
 ## 贡献者(Contributors)
 
 我们会把每个贡献者的贡献记录在[contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md)，包括每个项目每个成员的具体任务分配和贡献。
@@ -186,6 +188,33 @@ All funds will be used for data annotation, purchase of training computing power
 | 陈启源 | Founder | Juro | |
 | 黄泓森 | Contributor | HF | |
 
+
+<a name="related"></a>
+
+## 相关项目
+
+我们计划在这里增加一个表格，列出所有我们已经关联，和正在following的开源项目列表。同时，非常感谢这些项目的作者对开源社区的贡献。
+
+| Name | Colab | Detail |
+| --- | --- | --- |
+| GLM | | |
+
+
+
+## Citation
+
+Please cite the repo if you use the data or code in this repo.
+
+```
+@misc{alpaca,
+  author={Ziang Leng, Qiyuan Chen and Cheng Li},
+  title = {Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/LC1332/Luotuo-Chinese-LLM}},
+}
+```
 
 ## TODO and Be a Contributor
 
@@ -203,21 +232,6 @@ inbuilding project
 - [ ] write the second phase plan for Luotuo
 
 We plan to use this Luotuo project as the git repository for the entire Chinese LLM project. After the completion of the original Luotuo: LLaMA-LoRA, it will be migrated to Luotuo-vanilla. The CamelBell, Loulan, Silk-Road and other derivative Chinese language model projects will gradually be added to the Luotuo project.
-
-## Citation
-
-Please cite the repo if you use the data or code in this repo.
-
-```
-@misc{alpaca,
-  author={Ziang Leng, Qiyuan Chen and Cheng Li},
-  title = {Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA},
-  year = {2023},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/LC1332/Luotuo-Chinese-LLM}},
-}
-```
 
 ## A Quick Start
 
