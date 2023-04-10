@@ -32,6 +32,58 @@
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 1" height="100">
+      <br>
+      <b>某某某@某机构</b>
+      <br>
+      这里是 Contributor 1 的详细信息...
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 2" height="100">
+      <br>
+      <b>某某某@某机构</b>
+      <br>
+      这里是 Contributor 2 的详细信息...
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 3" height="100">
+      <br>
+      <b>某某某@某机构</b>
+      <br>
+      这里是 Contributor 3 的详细信息...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 4" height="100">
+      <br>
+      <b>某某某@某机构</b>
+      <br>
+      这里是 Contributor 4 的详细信息...
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 5" height="100">
+      <br>
+      <b>某某某@某机构</b>
+      <br>
+      这里是 Contributor 5 的详细信息...
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 6" height="100">
+      <br>
+      <b>某某某@某机构</b>
+      <br>
+      这里是 Contributor 6 的详细信息...
+    </td>
+  </tr>
+</table>
+
+
+
 我打算有时间的话在这里增加一个表格记录每个贡献者的名字、单位（如有）和github的头像。
 
 | N     | C     | N | C |
