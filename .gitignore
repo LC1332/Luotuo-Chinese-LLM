@@ -1,6 +1,8 @@
 .venv
 .cache
+.vscode
 .jupyter
 .DS_Store
+/notebook
 pyproject.toml
-/notebook/.ipynb_checkpoints
+!/notebook/*.ipynb
