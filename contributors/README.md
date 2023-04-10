@@ -2,7 +2,7 @@
 
 我们会把每个贡献者的贡献记录在[contributions.md](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/contributions.md)，包括每个项目每个成员的具体任务分配和贡献。
 
-这里仅列出每个人的主要贡献
+这里的表格仅列出每个人的主要贡献，更具体的内容请参考contributions.md
 
 <table>
   <tr>
