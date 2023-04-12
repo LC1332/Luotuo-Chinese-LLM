@@ -1,5 +1,7 @@
 ## News \[...\]
 
+[2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab和notebook也完成了修复。（如果遇到了bug请在issue中报告）
+
 [2023-4-3] 开始将README翻译成中文，英语的README移动到README_EN.md
 
 [2023-3-31] New Project Page.

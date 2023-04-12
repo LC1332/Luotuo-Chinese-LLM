@@ -19,9 +19,9 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab和notebook也完成了修复。（如果遇到了bug请在issue中报告）
+[2023-4-12] 修复骆驼说，驼铃的C模型中文文本摘要也增加了交互界面。
 
-[2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).
+[2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).（阿里能不能送个测试账号）
 
 [2023-4-1] 对于不使用colab的用户，我们增加了[docker部署](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) 并且为之编写了 [教程](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md).
 
@@ -41,6 +41,9 @@
 | 驼铃A | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLing_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 通过80条语料给GLM-6B简易洗脑 |
 | 骆驼0.3 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼0.3的验证代码 |
 | 骆驼说 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | 一个用Gradio写的交互对话 |
+| 骆驼说(GLM) | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatTuoling.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 中文文本摘要的Gradio交互界面 |
+
+
 
 ## 项目概览
 
@@ -280,7 +283,7 @@ All funds will be used for data annotation, purchase of training computing power
     <td>
       <img src="https://avatars.githubusercontent.com/u/19383886?v=4" alt="Contributor 6" height="150">
       <br>
-      <b> 黄钟健 </b>
+      <b> 黄钟健 @ 西安电子科大 </b>
       <br>
       黄钟健编写了Chat驼铃
     </td>

@@ -72,7 +72,7 @@
     <td>
       <img src="https://avatars.githubusercontent.com/u/19383886?v=4" alt="Contributor 6" height="150">
       <br>
-      <b> 黄钟健 </b>
+      <b> 黄钟健 @ 西安电子科大 </b>
       <br>
       黄钟健编写了Chat驼铃
     </td>
