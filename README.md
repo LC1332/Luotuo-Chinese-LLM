@@ -278,11 +278,11 @@ All funds will be used for data annotation, purchase of training computing power
       孙骜 正在参与中文QA等工作
     </td>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 6" height="150">
+      <img src="https://avatars.githubusercontent.com/u/19383886?v=4" alt="Contributor 6" height="150">
       <br>
-      <b> Join us </b>
+      <b> 黄钟健 </b>
       <br>
-      To be continue
+      黄钟健编写了Chat驼铃
     </td>
   </tr>
 </table>

@@ -34,21 +34,21 @@
     <td>
       <img src="https://avatars.githubusercontent.com/u/45280500" alt="Contributor 4" height="150">
       <br>
-      <b>黄泓森@华中师范</b>
+      <b>黄泓森 @ 华中师范大学</b>
       <br>
       黄泓森 维护了docker和项目环境
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/28683036?v=4" alt="Contributor 5" height="150">
       <br>
-      <b>Juruo@华中师范</b>
+      <b>胡婧 @ 华中师范大学</b>
       <br>
-      Juruo 正在参与一些后续项目
+      胡婧 正在参与一些后续项目
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/40827070?s=400&u=ab66832b0821cf43840ceba64a137da5089afe28&v=4" alt="Contributor 6" height="150">
       <br>
-      <b>陈舒年@杜克大学</b>
+      <b>陈舒年 @ 杜克大学</b>
       <br>
       陈舒年 正在参与ChatYisheng等
     </td>
@@ -58,14 +58,14 @@
     <td>
       <img src="https://avatars.githubusercontent.com/u/34046462?s=400&u=fb9f92b791dcffb7c37d8f3f3d99eac38379c663&v=4" alt="Contributor 5" height="150">
       <br>
-      <b>刘思祎@Upenn</b>
+      <b>刘思祎 @ Upenn</b>
       <br>
       刘思祎 正在参与一些后续项目
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/52043573?s=400&u=21a6a45547a06472457a7d852f1894825b9d7794&v=4" alt="Contributor 4" height="150">
       <br>
-      <b>孙骜@清华大学</b>
+      <b>孙骜 @ 清华大学</b>
       <br>
       孙骜 正在参与中文QA等工作
     </td>
