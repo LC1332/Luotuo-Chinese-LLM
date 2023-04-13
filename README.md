@@ -19,7 +19,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-13] 我们将在一周内发布骆驼嵌入（Luotuo-Embedding）
+[2023-4-13] 我们将在一周内发布骆驼嵌入（Luotuo-Embedding）和骆驼QA(CoQA阅读理解)
 
 <p align="center">
   <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/CSEvisual.png" height="300">
