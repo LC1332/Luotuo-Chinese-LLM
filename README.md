@@ -19,6 +19,12 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
+[2023-4-13] 我们将在一周内发布骆驼嵌入（Luotuo-Embedding）
+
+<p align="center">
+  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/CSEvisual.png" height="300">
+</p>
+
 [2023-4-12] 修复骆驼说，驼铃的C模型中文文本摘要也增加了交互界面。
 
 [2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).（阿里能不能送个测试账号）
