@@ -275,9 +275,9 @@ All funds will be used for data annotation, purchase of training computing power
     <td>
       <img src="https://avatars.githubusercontent.com/u/34046462?s=400&u=fb9f92b791dcffb7c37d8f3f3d99eac38379c663&v=4" alt="Contributor 5" height="150">
       <br>
-      <b>刘思祎 @ Upenn</b>
+      <b>刘思诣 @ Upenn</b>
       <br>
-      刘思祎 正在参与一些后续项目
+      刘思诣 正在参与一些后续项目
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/52043573?s=400&u=21a6a45547a06472457a7d852f1894825b9d7794&v=4" alt="Contributor 4" height="150">
