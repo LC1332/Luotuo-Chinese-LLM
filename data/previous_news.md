@@ -1,5 +1,11 @@
 ## News \[...\]
 
+[2023-4-13] 我们将在一周内发布骆驼嵌入（Luotuo-Embedding）和骆驼QA(CoQA阅读理解)
+
+<p align="center">
+  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/CSEvisual.png" height="300">
+</p>
+
 [2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab和notebook也完成了修复。（如果遇到了bug请在issue中报告）
 
 [2023-4-3] 开始将README翻译成中文，英语的README移动到README_EN.md

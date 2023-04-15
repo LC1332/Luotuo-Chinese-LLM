@@ -19,10 +19,10 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-13] 我们将在一周内发布骆驼嵌入（Luotuo-Embedding）和骆驼QA(CoQA阅读理解)
+[2023-4-15] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 的仓库已经转为public可见
 
 <p align="center">
-  <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/CSEvisual.png" height="300">
+  <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/tSNEchallenge.png" height="300">
 </p>
 
 [2023-4-12] 修复骆驼说，驼铃的C模型中文文本摘要也增加了交互界面。
