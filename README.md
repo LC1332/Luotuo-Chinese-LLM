@@ -206,6 +206,8 @@ All funds will be used for data annotation, purchase of training computing power
 
 我们计划在这里增加一个表格，列出所有我们已经关联，和正在following的开源项目列表。同时，非常感谢这些项目的作者对开源社区的贡献。
 
+[太长不看](#contributors)
+
 | 模型与训练 | 详情 |
 | --- | --- |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | ChatGLM-6B 是清华唐杰老师实验室释放出来的中文大语言(小)模型 |
