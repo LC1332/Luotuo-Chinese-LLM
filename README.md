@@ -42,7 +42,7 @@
 
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
-| 骆驼嵌入小 | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | LuotuoBERT 110M带可视化验证 |
+| 骆驼嵌入(小) | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | LuotuoBERT 110M带可视化验证 |
 | 驼铃C 文本摘要| <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 基于GLM-6B的文本摘要模型 |
 | 驼铃B Chat哈利波特 | - | [Chat哈利波特的初步汇报](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md) |
 | 驼铃A | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLing_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 通过80条语料给GLM-6B简易洗脑 |
@@ -55,6 +55,19 @@
 ## 项目概览
 
 我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
+
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_embedding.png" alt="Luotuo-Embedding" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Luotuo-Text-Embedding"> Luotuo Embedding 骆驼嵌入 </a></h2>
+      <p> 骆驼嵌入是一个文本嵌入模型，可以将长文本转化为1536维的向量，支持文本可视化、搜索、聚类、内容审核等下游业务。 </p>
+    </td>
+  </tr>
+</table>
+
+骆驼嵌入是我们从OpenAI蒸馏特征得到的BERT的文本嵌入模型。
 
 <table>
   <tr>
