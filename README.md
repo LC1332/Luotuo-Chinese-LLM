@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-骆驼嵌入是我们从OpenAI蒸馏特征得到的BERT的文本嵌入模型。
+骆驼嵌入是我们从OpenAI蒸馏特征得到的BERT的文本嵌入模型。<a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
 <table>
   <tr>
