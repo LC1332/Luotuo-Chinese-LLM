@@ -23,6 +23,7 @@ This was originally an exercise project for us, and we originally planned to tra
 All funds will be used for data annotation, purchase of training computing power, or distribution of subsequent peripheral products.
 
 ## Balance
+
 | Time| Operator| Item | Balance | Event |
 | --- | --- | --- | --- | --- |
 |  | 李鲁鲁 | -280 | -280 | 购买colab |
@@ -76,7 +77,19 @@ All funds will be used for data annotation, purchase of training computing power
 | 2023/4/4| 王*|768 | 8545| |
 | 2023/4/5| 陈启源 | -2063| 6482 | OpenAI数据标注|
 | 2023/4/6| 孙**|1024| 7506| |
-| 2023/4/6| **宇|200| 7706| |
+| 2023/4/6| 宋**|200| 7706| |
+| 2023/4/7| 白**|20| 7726| |
+| 2023/4/7| 余**|5| 7731| |
+| 2023/4/8 |孙骜 | -400 | 7331 | 购买colab pro+账号|
+| 2023/4/9| 陈启源 | -824| 6507| OpenAI数据标注|
+| 2023/4/9| 陈舒年| -319| 6188| 购买colab pro+账号|
+| 2023/4/9| 孙骜| -826| 5362| OpenAI 数据标注|
+| 2023/4/12| 李鲁鲁| -320| 5042| OpenAI 数据标注|
+| 2023/4/13| 秦*| 123| 5165| |
+| 2023/4/14| 陈启源 | -821| 4344| OpenAI数据标注|
+| 2023/4/15| 陈启源 | -821| 3523| OpenAI数据标注|
+| 2023/4/16| 陈启源 | -824| 2698| OpenAI数据标注|
+| 2023/4/16| 王耀文| 10| 2708| |
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
 * openAI买了60美金，实际使用了35美金，还有一些剩余可以继续调用
