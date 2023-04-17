@@ -19,10 +19,10 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-15] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 的小模型已经发布，可以用这个colab链接体验 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+[2023-4-16] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 代码已经发布，可以用这个colab链接体验 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  可支持文本可视化，聚类，模糊搜索等应用
 
 <p align="center">
-  <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/tSNEchallenge.png" height="300">
+  <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/Textcluster.png" height="350">
 </p>
 
 [2023-4-12] 修复骆驼说，驼铃的C模型中文文本摘要也增加了交互界面。
