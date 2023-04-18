@@ -1,6 +1,6 @@
 <a name="BigTitle"></a>
 
-[**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [快速上手](#quickstart) | [赞助](#sponsorship) | [赞助](#sponsorship) | [人员和贡献](#contributors) |  [相关项目](#related)
+[**English**](./README_EN.md) | [**中文**](https://github.com/LC1332/Luotuo-Chinese-LLM) | [快速上手](#quickstart) | [赞助](#sponsorship) | [赞助](#sponsorship) | [人员和贡献](#contributors) |  [相关项目](#related) | [骆驼读论文](https://github.com/LC1332/Luotuo-Paper-Reading)
 
 
 # 骆驼(Luotuo): 开源中文大语言模型
@@ -151,6 +151,16 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 </details>
 
 
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Paper-Reading" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Luotuo-Paper-Reading"> Paper Reading 骆驼读论文 </a></h2>
+      <p> 在构建骆驼项目中，阅读的一些关于大语言模型，或者其他科研进展的论文 </p>
+    </td>
+  </tr>
+</table>
+
 
 
 <table>
@@ -162,6 +172,8 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
     </td>
   </tr>
 </table>
+
+
 
 <table>
   <tr>
@@ -186,7 +198,7 @@ Top 3 Sponsors
 | 2023/4/6 | 孙** | 1024|
 | 2023/4/4| 王*| 768|
 
-balance = 2708 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+balance = 2846 now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
