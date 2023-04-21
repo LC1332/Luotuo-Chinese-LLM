@@ -40,7 +40,13 @@ class DeviceMap:
         layers = self.__layers
         device_map = self.__device_map
 
-        free_gpu_mem = torch.cuda.mem_get_info()
+        world_size = torch.cuda.device_count()
+
+        free_gpu_mem = []
+        for i in range(world_size):
+            torch.cuda.set_device(i)
+            free_gpu_mem.append(torch.cuda.mem_get_info()[0])
+
         min_id = min(enumerate(free_gpu_mem), key=lambda x: x[1])[0]
         max_id = max(enumerate(free_gpu_mem), key=lambda x: x[1])[0]
 
