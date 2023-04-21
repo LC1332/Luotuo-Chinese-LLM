@@ -4,5 +4,7 @@
 .jupyter
 .DS_Store
 /notebook/*
-pyproject.toml
+!/notebook/*.py
 !/notebook/*.ipynb
+poetry.lock
+pyproject.toml
