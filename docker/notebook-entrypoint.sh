@@ -19,10 +19,8 @@ if [[ ! -f "$HOME/.pip_env.ok" ]]; then
             pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
         fi
     fi
-    poetry run pip3 install jupyterlab bitsandbytes datasets loralib sentencepiece gradio
     poetry run pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-    poetry run pip3 install git+https://github.com/huggingface/transformers.git
-    poetry run pip3 install git+https://github.com/huggingface/peft.git
+    poetry run pip3 install jupyterlab bitsandbytes datasets loralib sentencepiece gradio transformers peft
     set +e
     touch $HOME/.pip_env.ok
 fi
