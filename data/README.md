@@ -42,6 +42,27 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 丫丫 </b>
+      <br>
+      <a href="https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 2" height="250">
+        <br>
+        丫丫是基于复旦MOSS的LoRA训练代码
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> Vanilla 骆驼 </b>
+      <br>
+      <a href="https://github.com/LC1332/Chinese-alpaca-lora"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Contributor 2" height="250">
+        <br>
+        骆驼: An Instruction-following Chinese Language model, LoRA tuning on LLaMA
+      </a>
+    </td>
+  </tr>
   
   <tr>
     <td style="text-align:center;">
