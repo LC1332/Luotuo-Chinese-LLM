@@ -36,27 +36,34 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
       <b style="font-size:larger;"> 骆驼嵌入 </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Text-Embedding"> 
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250">
-      <br>
-      骆驼嵌入: Generative Text Embedding Model distilled from OpenAI API </a>
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250">
+        <br>
+        骆驼嵌入: Generative Text Embedding Model distilled from OpenAI API
+      </a>
     </td>
   </tr>
+  
   <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/45280500" alt="Contributor 4" height="150">
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼大乱斗 </b>
       <br>
-      <b>黄泓森 @ 华中师范大学</b>
-      <br>
-      黄泓森 维护了docker和项目环境
+      <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 
+        骆驼大乱斗正在构建之中
+        <br>
+        骆驼大乱斗: Generating Massive Content for a Text-based Fighting Game
+      </a>
     </td>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/28683036?v=4" alt="Contributor 5" height="150">
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼CLIP </b>
       <br>
-      <b>胡婧 @ 华中师范大学</b>
-      <br>
-      胡婧 正在参与一些后续项目
+      <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 
+        骆驼CLIP
+        <br>
+        骆驼CLIP: Aligning Existed CLIP model with Multiple Prior Leveraged
+      </a>
     </td>
   </tr>
+
 </table>
 
 
