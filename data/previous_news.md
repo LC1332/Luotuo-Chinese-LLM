@@ -1,5 +1,11 @@
 ## News \[...\]
 
+[2023-4-15] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 的小模型已经发布，可以用这个colab链接体验 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+
+<p align="center">
+  <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/tSNEchallenge.png" height="300">
+</p>
+
 [2023-4-13] 我们将在一周内发布骆驼嵌入（Luotuo-Embedding）和骆驼QA(CoQA阅读理解)
 
 <p align="center">

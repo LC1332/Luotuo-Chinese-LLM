@@ -21,6 +21,43 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 
 [2023-3-27] We plan to train a [**ChatHarryPotter**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), we've just finished the prelimiary experiment and have ver. 0.1 model, but it did not meet our expectation, see this [report](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), and we are pursuing **a Harry Potter enthusiast Pythoner to join**.
 
+## Test
+
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/5266090?v=4" alt="Contributor 1" height="150">
+      <br>
+      <b> 李鲁鲁 @ 商汤科技 </b>
+      <br>
+      李鲁鲁 是骆驼项目的发起人之一
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/25675774?v=4" alt="Contributor 2" height="150">
+      <br>
+      <b>冷子昂 @ 商汤科技</b>
+      <br>
+      冷子昂 是骆驼项目的发起人之一
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/45280500" alt="Contributor 4" height="150">
+      <br>
+      <b>黄泓森 @ 华中师范大学</b>
+      <br>
+      黄泓森 维护了docker和项目环境
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/28683036?v=4" alt="Contributor 5" height="150">
+      <br>
+      <b>胡婧 @ 华中师范大学</b>
+      <br>
+      胡婧 正在参与一些后续项目
+    </td>
+  </tr>
+</table>
+
 
 ## A Quick Start
 
