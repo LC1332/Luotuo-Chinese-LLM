@@ -19,11 +19,26 @@
   <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/CSEvisual.png" height="300">
 </p>
 
+
+
+[2023-4-12] 修复骆驼说，驼铃的C模型中文文本摘要也增加了交互界面。
+
+
+
 [2023-4-10] 修复了除了骆驼说以外的所有代码，所有的其他colab和notebook也完成了修复。（如果遇到了bug请在issue中报告）
+
+[2023-4-2] 我们有了第一个版本的[丝绸魔法书](https://github.com/LC1332/Luotuo-Silk-Magic-Book), 其中记载了一些GPT和文心一言的魔法提示语(prompt).（阿里能不能送个测试账号）
+
+[2023-4-1] 对于不使用colab的用户，我们增加了[docker部署](https://github.com/LC1332/Luotuo-Chinese-LLM/tree/main/docker) 并且为之编写了 [教程](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/docker_instruction.md).
+
+
 
 [2023-4-3] 开始将README翻译成中文，英语的README移动到README_EN.md
 
 [2023-3-31] New Project Page.
+
+[2023-3-30] 我们发布了中文摘要模型 CamelBell-C (驼铃-C), 可以在这里体验-> <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. 更多结果见 [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
+
 
 [2023-3-30] We released Chinese Summarization Model, CamelBell-C (驼铃-C), try in this <a href="https://colab.research.google.com/github/LC1332/Chinese-alpaca-lora/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>. More result see in [CamelBell-repo](https://github.com/LC1332/CamelBell-Chinese-LoRA).
 
