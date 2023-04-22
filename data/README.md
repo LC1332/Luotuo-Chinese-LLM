@@ -26,14 +26,14 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/Textcluster.png" alt="Contributor 1" height="150">
+      <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/Textcluster.png" alt="Contributor 1" width="450">
       <br>
       <b>  骆驼嵌入 </b>
       <br>
       李鲁鲁 是骆驼项目的发起人之一
     </td>
     <td>
-      <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/Textcluster.png" alt="Contributor 2" height="150">
+      <img src="https://github.com/LC1332/Luotuo-Text-Embedding/blob/main/image/Textcluster.png" alt="Contributor 2" width="450">
       <br>
       <b> 骆驼QA </b>
       <br>
