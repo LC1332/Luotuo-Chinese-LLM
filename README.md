@@ -17,6 +17,74 @@
 
 我们将项目命名为 骆驼 Luotuo (Camel) 主要是因为，Meta之前的项目LLaMA（驼马）和斯坦福之前的项目alpaca(羊驼)都属于偶蹄目-骆驼科（Artiodactyla-Camelidae）。而且骆驼科只有三个属，再不起这名字就来不及了。
 
+## 子项目一览
+
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <b style="font-size:larger;">  骆驼QA </b>
+      <br>
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250">
+      <br>
+      骆驼QA: Better Conversational Question Answering Model with Answer Completion
+    </td>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼嵌入 </b>
+      <br>
+      <a href="https://github.com/LC1332/Luotuo-Text-Embedding"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250">
+        <br>
+        骆驼嵌入: Generative Text Embedding Model distilled from OpenAI API
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 丫丫 </b>
+      <br>
+      <a href="https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 2" height="250">
+        <br>
+        丫丫是基于复旦MOSS的LoRA训练代码
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> Vanilla 骆驼 </b>
+      <br>
+      <a href="https://github.com/LC1332/Chinese-alpaca-lora"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Contributor 2" height="250">
+        <br>
+        骆驼: An Instruction-following Chinese Language model, LoRA tuning on LLaMA
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼大乱斗 </b>
+      <br>
+      <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 
+        骆驼大乱斗正在构建之中...
+        <br>
+        骆驼大乱斗: Generating Massive Content for a Text-based Fighting Game
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼CLIP </b>
+      <br>
+      <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 
+        骆驼CLIP正在构建之中...
+        <br>
+        骆驼CLIP: Aligning Existed CLIP model with Multiple Prior Leveraged
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+
+
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
 [2023-4-23] 0.1 Version of 骆驼QA将在一周内发布
