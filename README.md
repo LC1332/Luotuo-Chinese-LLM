@@ -41,7 +41,7 @@
 
   <tr>
     <td style="text-align:center;">
-      <b style="font-size:larger;"> 丫丫 </b>
+      <b style="font-size:larger;"> 丫丫-MOSS </b>
       <br>
       <a href="https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA"> 
         <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 2" height="250">
