@@ -48,7 +48,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
       <b style="font-size:larger;"> 骆驼大乱斗 </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 
-        骆驼大乱斗正在构建之中
+        骆驼大乱斗正在构建之中...
         <br>
         骆驼大乱斗: Generating Massive Content for a Text-based Fighting Game
       </a>
@@ -57,7 +57,7 @@ We named project in Luotuo(Camel) because both LLaMA and alpaca are all belongs 
       <b style="font-size:larger;"> 骆驼CLIP </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Chinese-LLM"> 
-        骆驼CLIP
+        骆驼CLIP正在构建之中...
         <br>
         骆驼CLIP: Aligning Existed CLIP model with Multiple Prior Leveraged
       </a>
