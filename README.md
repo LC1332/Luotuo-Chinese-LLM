@@ -24,6 +24,7 @@
     <td style="text-align:center;">
       <b style="font-size:larger;">  骆驼QA </b>
       <br>
+      <br>
       <a href="https://github.com/LC1332/Luotuo-QA"> 
       <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250">
       <br>
@@ -32,6 +33,7 @@
     </td>
     <td style="text-align:center;">
       <b style="font-size:larger;"> 骆驼嵌入 </b>
+      <br>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Text-Embedding"> 
         <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250">
