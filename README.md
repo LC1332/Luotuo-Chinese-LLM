@@ -24,9 +24,11 @@
     <td style="text-align:center;">
       <b style="font-size:larger;">  骆驼QA </b>
       <br>
+      <a href="https://github.com/LC1332/Luotuo-QA"> 
       <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250">
       <br>
       骆驼QA: Better Conversational Question Answering Model with Answer Completion
+      </a>
     </td>
     <td style="text-align:center;">
       <b style="font-size:larger;"> 骆驼嵌入 </b>
