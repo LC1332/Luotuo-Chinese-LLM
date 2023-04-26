@@ -302,6 +302,8 @@ All funds will be used for data annotation, purchase of training computing power
 |[Baize-7B](https://github.com/project-baize/baize-chatbot)|白泽是做连续对话的，他收集语料的方法很有意思，之后我们要看一下，但是白泽是在LLaMA上训练的，所以会遇到中文的问题，用到中文要换基模型。 |
 |[Vicuna](https://github.com/lm-sys/FastChat)|同时有7B和13B，支持中文的模型，这个应该挺厉害的，而且13B用Int4能够压缩到colab使用（但是不知道int4训练会不会出事儿），之后也要试一下|
 |[DeepSpeed](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat/chinese) | 微软开源的一个快速训练RLHF和全局finetune的一个框架 |
+|[Phoenix](https://github.com/FreedomIntelligence/LLMZoo)| 港中文深圳的老师同学们发布的Phoenix模型，拥有宽松，支持商业的开源协议，我们之后想有些模型也在这上面训练，另外感谢cite我们🙏|
+|[中文OpenInstruct](https://github.com/flagopen/flaginstruct)|北京智源老师们准备开源出来的数据集，另外感谢cite我们!|
 
 | 数据 | 详情 |
 | --- | --- |
