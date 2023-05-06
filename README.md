@@ -19,7 +19,9 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-04-27] 尝试翻译了一下斯坦福35个Agents生成的Generative Agents的工作。[代码仓库](https://github.com/LC1332/Chinese-generative-agents)，colab链接 <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_story_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[2023-05-06] 学习了Andrew Ng的Prompt工程课程，[代码仓库](https://github.com/LC1332/Prophet-Andrew-Ng), 第一课的colab链接 <a href="https://colab.research.google.com/github/LC1332/prompt-ng-andrew/blob/main/content/2.%20%E6%8F%90%E7%A4%BA%E5%8E%9F%E5%88%99%20Guidelines.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 
 ## 子项目一览
 
@@ -43,6 +45,25 @@
         <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250">
         <br>
         骆驼嵌入: Generative Text Embedding Model distilled from OpenAI API
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼RPG </b>
+      <br>
+      <a href="https://github.com/LC1332/Chinese-generative-agents"> 
+        <br>
+        LuotuoRPG是斯坦福Generative Agents的中文版本尝试。
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼先知 </b>
+      <br>
+      <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
+        <br>
+        骆驼先知是李鲁鲁在吴恩达Prompt Engineering课程上的实践。
       </a>
     </td>
   </tr>
@@ -95,7 +116,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-4-23] 我们在复旦开源的MOSS基础上实现了[丫丫](https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA)，需要双卡A100运行和单卡A100的inference
+[2023-04-27] 尝试翻译了一下斯坦福25个Agents生成的Generative Agents的工作。[代码仓库](https://github.com/LC1332/Chinese-generative-agents)，colab链接 <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_story_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 [2023-4-16] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 代码已经发布，可以用这个colab链接体验 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  可支持文本可视化，聚类，模糊搜索等应用
 

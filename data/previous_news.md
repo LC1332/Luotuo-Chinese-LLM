@@ -1,10 +1,13 @@
 ## News \[...\]
 
+
 [2023-4-25] 骆驼QA已经发布，可以在<a href="https://colab.research.google.com/github/LC1332/Luotuo-QA/blob/main/colab/LuotuoQA_Gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 这个链接体验。
 
 <p align="center">
   <img src="image/QAResult.png" height="300">
 </p>
+
+[2023-4-23] 我们在复旦开源的MOSS基础上实现了[丫丫](https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA)，需要双卡A100运行和单卡A100的inference
 
 [2023-4-16] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 代码已经发布，可以用这个colab链接体验 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  可支持文本可视化，聚类，模糊搜索等应用
 
