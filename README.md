@@ -285,10 +285,10 @@ Top 3 Sponsors
 |Time    | Sponsor     | Amount |
 | --- | --- | --- | 
 | 2023/3/28 | 张** | 2000 |
+| 2023/4/2等| Tand| 1080| 
 | 2023/4/6 | 孙** | 1024|
-| 2023/4/23| 孙*| 1000| 
 
-balance =  5187  now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+balance =  5507  now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
@@ -436,30 +436,3 @@ Please cite the repo if you use the data or code in this repo.
 ```
 
 [回到开头](#BigTitle)
-
-## TODO and Be a Contributor
-
-It seems that there are many follow-up tasks to be done after the basic version is completed. Many developers in the community have put forward more friendly suggestions, and I have put a longer TODO list in [TODO_list.md](data/TODO_list.md).
-
-inbuilding project
-
-- [X] translate alpaca json data into Chinese
-- [X] finetuning with lora(model 0.1)
-- [X] release 0.1 model (model A)
-- [X] model to hugging face, GUI demo
-- [X] train lora with more alpaca data(model 0.3)
-- [ ] (In Processing) train lora with more alpaca data(model 0.9)
-- [ ] clean training code
-- [ ] write the second phase plan for Luotuo
-
-We plan to use this Luotuo project as the git repository for the entire Chinese LLM project. After the completion of the original Luotuo: LLaMA-LoRA, it will be migrated to Luotuo-vanilla. The CamelBell, Loulan, Silk-Road and other derivative Chinese language model projects will gradually be added to the Luotuo project.
-
-## A Quick Start
-
-| Colab Link |  | detail |
-| --- | --- | :--- |
-| CamelBell quick evaluation | <a href="https://colab.research.google.com/github/LC1332/CamelBell-Chinese-LoRA/blob/main/notebook/CamelBell_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Tuoling specific Evaluation Code |
-| A quick evaluation | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Evaluation code with standard HuggingFace pipeline |
-| Bot with Interface | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | Interactive Chatting Bot using Gradio |
-| Training Code | To be released | Training code, run on colab |
-| Data Translation  | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/translate_json_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | Translation alpaca.json into Chinese |
