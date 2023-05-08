@@ -51,31 +51,12 @@
 
   <tr>
     <td style="text-align:center;">
-      <b style="font-size:larger;"> 骆驼RPG </b>
-      <br>
-      <a href="https://github.com/LC1332/Chinese-generative-agents"> 
-        <br>
-        LuotuoRPG是斯坦福Generative Agents的中文版本尝试。
-      </a>
-    </td>
-    <td style="text-align:center;">
       <b style="font-size:larger;"> 骆驼先知 </b>
       <br>
       <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
+        <img src="https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/figures/icon.png" alt="Contributor 2" height="250">
         <br>
-        骆驼先知是李鲁鲁在吴恩达Prompt Engineering课程上的实践。
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align:center;">
-      <b style="font-size:larger;"> 丫丫-MOSS </b>
-      <br>
-      <a href="https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA"> 
-        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 2" height="250">
-        <br>
-        丫丫是基于复旦MOSS的LoRA训练代码
+        骆驼先知是模仿纪伯伦的《先知》进行哲学讨论
       </a>
     </td>
     <td style="text-align:center;">
@@ -88,6 +69,27 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 骆驼RPG </b>
+      <br>
+      <a href="https://github.com/LC1332/Chinese-generative-agents"> 
+        <br>
+        LuotuoRPG是斯坦福Generative Agents的中文版本尝试。
+      </a>
+    </td>
+    <td style="text-align:center;">
+      <b style="font-size:larger;"> 丫丫-MOSS </b>
+      <br>
+      <a href="https://github.com/qiyuan-chen/Yaya-Moss-Alpaca-LoRA"> 
+        <br>
+        丫丫是基于复旦MOSS的LoRA训练代码
+      </a>
+    </td>
+  </tr>
+
+  
   
   <tr>
     <td style="text-align:center;">
