@@ -19,7 +19,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-05-06] 学习了Andrew Ng的Prompt工程课程，[代码仓库](https://github.com/LC1332/Prophet-Andrew-Ng), 第一课的colab链接 <a href="https://colab.research.google.com/github/LC1332/prompt-ng-andrew/blob/main/content/2.%20%E6%8F%90%E7%A4%BA%E5%8E%9F%E5%88%99%20Guidelines.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+[2023-05-06] 学习了Andrew Ng的Prompt工程课程，[骆驼先知](https://github.com/LC1332/Prophet-Andrew-Ng), 第一课的colab链接 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/prophet-gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
@@ -129,6 +129,7 @@
 
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
+| 骆驼先知 | <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/prophet-gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼先知的Gradio交互版本 |
 | 骆驼QA | <a href="https://colab.research.google.com/github/LC1332/Luotuo-QA/blob/main/colab/LuotuoQA_Gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼QA的0.1模型，基于一段给定文本做问答 |
 | 骆驼嵌入(小) | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | LuotuoBERT 文本可视化 聚类 搜索 |
 | 驼铃C 文本摘要| <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/TuoLingC_evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 基于GLM-6B的文本摘要模型 |
