@@ -56,7 +56,8 @@
       <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
         <img src="https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/figures/icon.png" alt="Contributor 2" height="250">
         <br>
-        骆驼先知是模仿纪伯伦的《先知》进行哲学讨论
+        骆驼先知是模仿纪伯伦的《先知》进行哲学讨论。
+        这个项目包含了Andrew Ng吴恩达Prompt工程的笔记
       </a>
     </td>
     <td style="text-align:center;">
