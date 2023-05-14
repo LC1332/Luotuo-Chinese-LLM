@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  finetune:
+    container_name: luotuo
+    build: ./docker
+    # network_mode: host
+    ports:
+      - "8888:8888"
+    environment:
+      - JUPYTER_IP=0.0.0.0
+      - JUPYTER_PORT=8888
+      - PYPI_MIRROR=https://pypi.tuna.tsinghua.edu.cn/simple
+      # - http_proxy=http://proxy.example.com:port
+      # - https_proxy=http://proxy.example.com:port
+    volumes:
+      - ./:/workspace
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    deploy:
+      resources:
+        reservations:
+          devices:
+          - driver: nvidia
+            device_ids: ['0', '1']    # Fill your GPU id here(Get it from nvidia-smi -L)
+            capabilities: [gpu]
