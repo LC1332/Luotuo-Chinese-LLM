@@ -101,6 +101,9 @@ All funds will be used for data annotation, purchase of training computing power
 | 2023/4/24| 陈启源| -150| 5037| 购买GPT plus会员|
 | 2023/4/27| 李思宇| -79| 4957| 购买colab账号|
 | 2023/5/5| Tand| 550 | 5507 | |
+|2023/5/5 |李鲁鲁|-30|5477|数据搜集|
+|2023/5/5 |Sirly|-400|5077|购买colab pro+账号|
+|2023/5/5 |梁*|100|5177||
 
 
 * autoDL虽然购买了，但是很多时候都用不了A100，但是还是先这样，我们后续也可以用这个经费来部署在线demo服务器
