@@ -1,5 +1,7 @@
 ## News \[...\]
 
+[2023-05-06] 学习了Andrew Ng的Prompt工程课程，[骆驼先知](https://github.com/LC1332/Prophet-Andrew-Ng), 第一课的colab链接 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/prophet-gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 [2023-4-25] 骆驼QA已经发布，可以在<a href="https://colab.research.google.com/github/LC1332/Luotuo-QA/blob/main/colab/LuotuoQA_Gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 这个链接体验。
 
