@@ -23,9 +23,9 @@
 
 ## 子项目一览
 
-<table>
+<table style="table-layout:fixed; width: 100%;">
   <tr>
-    <td style="text-align:center;" width:50%>
+    <td style="text-align:center; width:50%;">
       <b style="font-size:larger;">  骆驼QA </b>
       <br>
       <br>
@@ -35,7 +35,7 @@
       骆驼QA: Better Conversational Question Answering Model with Answer Completion
       </a>
     </td>
-    <td style="text-align:center;" width:50%>
+    <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 骆驼嵌入 </b>
       <br>
       <br>
