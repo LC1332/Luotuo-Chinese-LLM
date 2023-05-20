@@ -48,7 +48,7 @@
   </tr>
 
   <tr>
-    <td style="text-align:center;">
+    <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 骆驼先知 </b>
       <br>
       <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
@@ -58,7 +58,7 @@
         这个项目包含了Andrew Ng吴恩达Prompt工程的笔记
       </a>
     </td>
-    <td style="text-align:center;">
+    <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> Vanilla 骆驼 </b>
       <br>
       <a href="https://github.com/LC1332/Chinese-alpaca-lora"> 
