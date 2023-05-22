@@ -32,7 +32,7 @@
       <br>
       <br>
       <a href="https://github.com/LC1332/Luotuo-QA"> 
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250">
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250" width="50%">
       <br>
       骆驼QA: Better Conversational Question Answering Model with Answer Completion
       </a>
@@ -42,7 +42,7 @@
       <br>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Text-Embedding"> 
-        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250">
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjEmbedding.png" alt="Contributor 2" height="250" width="50%">
         <br>
         骆驼嵌入: Generative Text Embedding Model distilled from OpenAI API
       </a>
