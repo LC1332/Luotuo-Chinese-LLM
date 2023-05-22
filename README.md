@@ -19,7 +19,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-05-22] 将目前发布的数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)
+[2023-05-22] 将目前发布的九个中文数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)，包含问答指令，阅读理解和跨模态
 
 [2023-05-20] 发布项目[迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](https://github.com/LC1332/Mini-Luotuo),  3.5B小模型和测试代码 <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
