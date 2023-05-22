@@ -54,7 +54,7 @@
       <b style="font-size:larger;"> 丝绸之路 </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Silk-Road"> 
-        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Contributor 2" height="250">
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_road.png" alt="Contributor 2" height="250">
         <br>
         丝绸之路: 构建中文大语言模型的数据基础
       </a>
