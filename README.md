@@ -404,21 +404,21 @@ All funds will be used for data annotation, purchase of training computing power
       <br>
       <b>黄泓森 @ 华中师范大学</b>
       <br>
-      黄泓森 维护了docker和项目环境
+      黄泓森 维护了服务器和大量数据代码
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/28683036?v=4" alt="Contributor 5" height="150">
       <br>
       <b>胡婧 @ 华中师范大学</b>
       <br>
-      胡婧 正在参与一些后续项目
+      胡婧 正在进一步维护骆驼嵌入
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/40827070?s=400&u=ab66832b0821cf43840ceba64a137da5089afe28&v=4" alt="Contributor 6" height="150">
       <br>
       <b>陈舒年 @ 杜克大学</b>
       <br>
-      陈舒年 正在参与ChatYisheng等
+      陈舒年 参与了骆驼嵌入等多个项目
     </td>
   </tr>
 
@@ -428,21 +428,45 @@ All funds will be used for data annotation, purchase of training computing power
       <br>
       <b>刘思诣 @ Upenn</b>
       <br>
-      刘思诣 正在参与一些后续项目
+      刘思诣 参与了骆驼嵌入项目
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/52043573?s=400&u=21a6a45547a06472457a7d852f1894825b9d7794&v=4" alt="Contributor 4" height="150">
       <br>
       <b>孙骜 @ 清华大学</b>
       <br>
-      孙骜 正在参与中文QA等工作
+      孙骜 训练了骆驼QA的英文模型
     </td>
     <td>
       <img src="https://avatars.githubusercontent.com/u/19383886?v=4" alt="Contributor 6" height="150">
       <br>
       <b> 黄钟健 @ 西安电子科大 </b>
       <br>
-      黄钟健编写了Chat驼铃
+      黄钟健训练了迷你骆驼
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/24369614?v=4" alt="Contributor 5" height="150">
+      <br>
+      <b>廖健生 Jansen</b>
+      <br>
+      廖健生 训练了骆驼QA的模型
+    </td>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/62985169?v=4" alt="Contributor 4" height="150">
+      <br>
+      <b>罗钦雨 @ JHU</b>
+      <br>
+      罗钦雨 发布了骆驼QA-B数据集
+    </td>
+    <td>
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Contributor 6" height="150">
+      <br>
+      <b> 更多 </b>
+      <br>
+      更多同学招募中。。。
     </td>
   </tr>
 </table>
