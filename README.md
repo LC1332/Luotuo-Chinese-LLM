@@ -19,6 +19,8 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
+[2023-05-22] 将目前发布的数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)
+
 [2023-05-20] 发布项目[迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](https://github.com/LC1332/Mini-Luotuo),  3.5B小模型和测试代码 <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 ## 子项目一览
@@ -49,6 +51,15 @@
 
   <tr>
     <td style="text-align:center; width:50%;">
+      <b style="font-size:larger;"> 丝绸之路 </b>
+      <br>
+      <a href="https://github.com/LC1332/Luotuo-Silk-Road"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Contributor 2" height="250">
+        <br>
+        丝绸之路: 构建中文大语言模型的数据基础
+      </a>
+    </td>
+    <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 骆驼先知 </b>
       <br>
       <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
@@ -58,6 +69,9 @@
         这个项目包含了Andrew Ng吴恩达Prompt工程的笔记
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> Vanilla 骆驼 </b>
       <br>
@@ -65,6 +79,15 @@
         <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Contributor 2" height="250">
         <br>
         骆驼: An Instruction-following Chinese Language model, LoRA tuning on LLaMA
+      </a>
+    </td>
+    <td style="text-align:center; width:50%;">
+      <b style="font-size:larger;"> 丝绸魔法书 </b>
+      <br>
+      <a href="https://github.com/LC1332/Luotuo-Silk-Magic-Book"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Contributor 2" height="250">
+        <br>
+        丝绸魔法书记录了大语言模型的一些魔法提示词(prompt)。
       </a>
     </td>
   </tr>
