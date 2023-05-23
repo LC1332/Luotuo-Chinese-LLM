@@ -51,22 +51,21 @@
 
   <tr>
     <td style="text-align:center; width:50%;">
+      <b style="font-size:larger;"> 迷你骆驼 </b>
+      <br>
+      <a href="https://github.com/LC1332/Mini-Luotuo"> 
+        <img src="https://github.com/LC1332/Mini-Luotuo/blob/main/images/ProjectIcon.png" alt="Contributor 2" height="250">
+        <br>
+        迷你骆驼:一系列蒸馏指令数据得到的中文语言模型
+      </a>
+    </td>
+    <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 丝绸之路 </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Silk-Road"> 
         <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_road.png" alt="Contributor 2" height="250">
         <br>
         丝绸之路: 构建中文大语言模型的数据基础
-      </a>
-    </td>
-    <td style="text-align:center; width:50%;">
-      <b style="font-size:larger;"> 骆驼先知 </b>
-      <br>
-      <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
-        <img src="https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/figures/icon.png" alt="Contributor 2" height="250">
-        <br>
-        骆驼先知是模仿纪伯伦的《先知》进行哲学讨论。
-        这个项目包含了Andrew Ng吴恩达Prompt工程的笔记
       </a>
     </td>
   </tr>
@@ -82,6 +81,16 @@
       </a>
     </td>
     <td style="text-align:center; width:50%;">
+      <b style="font-size:larger;"> 骆驼先知 </b>
+      <br>
+      <a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 
+        <img src="https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/figures/icon.png" alt="Contributor 2" height="250">
+        <br>
+        骆驼先知是模仿纪伯伦的《先知》进行哲学讨论。
+        这个项目包含了Andrew Ng吴恩达Prompt工程的笔记
+      </a>
+    </td>
+    <!-- <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 丝绸魔法书 </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Silk-Magic-Book"> 
@@ -89,7 +98,7 @@
         <br>
         丝绸魔法书记录了大语言模型的一些魔法提示词(prompt)。
       </a>
-    </td>
+    </td> -->
   </tr>
 
   <tr>
