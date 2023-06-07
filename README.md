@@ -19,7 +19,7 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> , 这个项目还在持续招人，[欢迎联系](https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/Hiring.md)
 
 
 [2023-05-20] 发布项目[迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](https://github.com/LC1332/Mini-Luotuo),  3.5B小模型和测试代码 <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
