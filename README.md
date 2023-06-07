@@ -19,7 +19,8 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-05-22] 将目前发布的九个中文数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)，包含问答指令，阅读理解和跨模态
+[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 
 [2023-05-20] 发布项目[迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](https://github.com/LC1332/Mini-Luotuo),  3.5B小模型和测试代码 <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
@@ -149,6 +150,9 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
+[2023-05-22] 将目前发布的九个中文数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)，包含问答指令，阅读理解和跨模态
+
+
 [2023-05-06] 升级了数据集批量翻译的脚本 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/improvedTranslation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 [2023-04-27] 尝试翻译了一下斯坦福25个Agents生成的Generative Agents的工作。[代码仓库](https://github.com/LC1332/Chinese-generative-agents)，colab链接 <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_story_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -164,6 +168,8 @@
 
 |  | Colab链接 | 细节 |
 | --- | --- | :--- |
+|Chat凉宫春日(图文)|<a href="https://colab.research.google.com/github/LC1332/Chat-Haruhi-Suzumiya/blob/main/notebook/gradio_with_Image.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>| 能够根据台词搜索图片的gradio版本 |
+|Chat凉宫春日|<a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>| 李鲁鲁最早开发的gradio Chat凉宫春日 |
 | 骆驼先知 | <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/prophet-gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼先知的Gradio交互版本 |
 | 骆驼QA | <a href="https://colab.research.google.com/github/LC1332/Luotuo-QA/blob/main/colab/LuotuoQA_Gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | 骆驼QA的0.1模型，基于一段给定文本做问答 |
 | 骆驼嵌入(小) | <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  | LuotuoBERT 文本可视化 聚类 搜索 |
