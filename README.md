@@ -285,13 +285,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 </details>
 
-
-
-
-TODO: 这个section将有空的时候改为更详细的项目介绍，而项目icon将全部移动到上面去。
-
-我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
-
+到这里时候，我们开始思考，一方面想要突破模型token长度的限制，一方面需要结合本地知识库对模型进行输出。所以这里有两个关键点，一个是embedding，一个是Closed QA的模型。所以我们启动了骆驼嵌入和骆驼QA两个项目
 
 <table>
   <tr>
@@ -304,6 +298,27 @@ TODO: 这个section将有空的时候改为更详细的项目介绍，而项目i
 </table>
 
 骆驼嵌入是我们从OpenAI蒸馏特征得到的BERT的文本嵌入模型。<a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_embedding.png" alt="Luotuo-Embedding" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Luotuo-Text-Embedding"> Luotuo Embedding 骆驼嵌入 </a></h2>
+      <p> 骆驼嵌入是一个文本嵌入模型，可以将长文本转化为1536维的向量，支持文本可视化、搜索、聚类、内容审核等下游业务。 </p>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+
+
+TODO: 这个section将有空的时候改为更详细的项目介绍，而项目icon将全部移动到上面去。
+
+我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
+
 
 
 
