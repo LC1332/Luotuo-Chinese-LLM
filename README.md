@@ -197,6 +197,52 @@
 
 ## 项目概览
 
+让我来用时间顺序介绍整个骆驼项目的起源和发展。
+
+在2023年3月20日，李鲁鲁老师实践了一下[Alpaca-Lora](https://github.com/tloen/alpaca-lora)的项目。
+
+于是在3月21日的早晨，李鲁鲁在github上反查使用了LLaMATokenizer的代码，这个时候我们找到了[Japanese-Alpaca-LoRA](https://github.com/masa3141/japanese-alpaca-lora)项目。于是我们很快意识到，也可以用同样的方法尝试用中文去tuning LLaMA的模型。
+
+于是在简短的讨论后，我们建立了Chinese-alpaca-lora这个项目
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
+      <p> Luotuo-Vanilla是骆驼项目的第一个github仓库, 它是在LLaMA-7B上进行微调的。骆驼项目的初始目标，是研究使用跨语言数据在进行微调时，大语言模型发生的相关现象。 </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>详细描述</summary>
+
+测试代码 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+一个使用Gradio搭建的交互界面 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+我们还在完善骆驼1.0的训练数据和修复bug，并且在后续的版本中，我们将研究如何修复骆驼的Tokenizer。
+
+骆驼0.3 的输出样例
+
+```
+Input: 中国的首都在哪里？
+Luotuo-Output: 中国的首都是北京。
+```
+
+```
+Input: 华中师范大学在哪里
+Luotuo-0.1-Output: 华中师范大学位于北京
+Luotuo-0.3-Output: 华中师范大学在武汉市。
+```
+
+</details>
+
+
+
+
+
 TODO: 这个section将有空的时候改为更详细的项目介绍，而项目icon将全部移动到上面去。
 
 我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
@@ -261,39 +307,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 
 
-<table>
-  <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_luotuo.png" alt="Luotuo-Vanilla" width="160"></td>
-    <td>
-      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Luotuo 骆驼 </a></h2>
-      <p> Luotuo-Vanilla是骆驼项目的第一个github仓库, 它是在LLaMA-7B上进行微调的。骆驼项目的初始目标，是研究使用跨语言数据在进行微调时，大语言模型发生的相关现象。 </p>
-    </td>
-  </tr>
-</table>
 
-测试代码 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/evaluation_code.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-
-一个使用Gradio搭建的交互界面 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/ChatLuotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-我们还在完善骆驼1.0的训练数据和修复bug，并且在后续的版本中，我们将研究如何修复骆驼的Tokenizer。
-
-
-
-<details>
-  <summary>骆驼0.3 的输出样例 (点我)</summary>
-
-```
-Input: 中国的首都在哪里？
-Luotuo-Output: 中国的首都是北京。
-```
-
-```
-Input: 华中师范大学在哪里
-Luotuo-0.1-Output: 华中师范大学位于北京
-Luotuo-0.3-Output: 华中师范大学在武汉市。
-```
-
-</details>
 
 
 <table>
