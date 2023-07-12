@@ -18,9 +18,9 @@
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
 
-[2023-07-12] 骆驼嵌入更新中模型 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization_Medium.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 。我们后面将准备再训一个英语的嵌入模型。
+[2023-07-12] 骆驼嵌入更新中模型 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization_Medium.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 。我们后面将准备再训一个英语的嵌入模型。
 
-[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> ,这个项目还在持续招人, [欢迎联系](https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/Hiring.md)
+[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> ,这个项目还在持续招人, [欢迎联系](https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/Hiring.md)
 
 
 
