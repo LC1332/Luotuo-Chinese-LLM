@@ -203,7 +203,7 @@
 
 于是在3月21日的早晨，李鲁鲁在github上反查使用了LLaMATokenizer的代码，这个时候我们找到了[Japanese-Alpaca-LoRA](https://github.com/masa3141/japanese-alpaca-lora)项目。于是我们很快意识到，也可以用同样的方法尝试用中文去tuning LLaMA的模型。
 
-于是在简短的讨论后，我们建立了Chinese-alpaca-lora这个项目
+于是在简短的讨论后，我们建立了Chinese-alpaca-lora这个项目，并且在当天就上传了对应的模型和demo。在这个时代，人们需要自己传播自己的工作，所以李鲁鲁在知乎写了第一篇关于骆驼的文章[【开源GPT】三位华人小哥开源中文语言模型“骆驼”，单卡即可完成训练部署，花费几百训练自己的中文聊天模型](https://zhuanlan.zhihu.com/p/615968438)
 
 <table>
   <tr>
@@ -253,7 +253,6 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
   </tr>
 </table>
 
-
 <details>
   <summary> 详情 </summary>
   
@@ -285,6 +284,8 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 </details>
 
+当然，随着ChatGLM2的发布，有很多更成熟的ChatGLM2的tuning项目，所以驼铃项目就休眠了。
+
 到这里时候，我们开始思考，一方面想要突破模型token长度的限制，一方面需要结合本地知识库对模型进行输出。所以这里有两个关键点，一个是embedding，一个是Closed QA的模型。所以我们启动了骆驼嵌入和骆驼QA两个项目
 
 <table>
@@ -299,6 +300,8 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 骆驼嵌入是我们从OpenAI蒸馏特征得到的BERT的文本嵌入模型。<a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
+[【开源骆驼】我们蒸馏了OpenAI的特征，并用它分析了周杰伦的歌词，还打算复现360的Demo](https://zhuanlan.zhihu.com/p/622433896)
+
 <table>
   <tr>
     <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_embedding.png" alt="Luotuo-Embedding" width="160"></td>
@@ -310,6 +313,7 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 </table>
 
 
+骆驼嵌入是一个非相关从业者关注比较少的项目。
 
 ---
 
