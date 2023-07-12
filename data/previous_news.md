@@ -1,5 +1,9 @@
 ## News \[...\]
 
+
+[2023-05-22] 将目前发布的九个中文数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)，包含问答指令，阅读理解和跨模态
+
+
 [2023-05-06] 学习了Andrew Ng的Prompt工程课程，[骆驼先知](https://github.com/LC1332/Prophet-Andrew-Ng), 第一课的colab链接 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/prophet-gradio.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 

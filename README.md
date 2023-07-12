@@ -17,23 +17,25 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> , 这个项目还在持续招人，[欢迎联系](https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/Hiring.md)
+
+[2023-07-12] 骆驼嵌入更新中模型 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization_Medium.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 。我们后面将准备再训一个英语的嵌入模型。
+
+[2023-06-07] 最近很多精力都在做 [Chat凉宫春日](https://github.com/LC1332/Chat-Haruhi-Suzumiya), 可以点这个体验 <a href="https://colab.research.google.com/github/LC1332/Prophet-Andrew-Ng/blob/main/prophet-code/haruhiLangChain.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> ,这个项目还在持续招人, [欢迎联系](https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/Hiring.md)
 
 
-[2023-05-20] 发布项目[迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](https://github.com/LC1332/Mini-Luotuo),  3.5B小模型和测试代码 <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 ## 子项目一览
 
 <table style="table-layout:fixed; width: 100%;">
   <tr>
     <td style="text-align:center; width:50%;" width="50%">
-      <b style="font-size:larger;">  骆驼QA </b>
+      <b style="font-size:larger;"> Chat凉宫春日 </b>
       <br>
       <br>
-      <a href="https://github.com/LC1332/Luotuo-QA"> 
-      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250" width="100%">
-      <br>
-      骆驼QA: Better Conversational Question Answering Model with Answer Completion
+      <a href="https://github.com/LC1332/Chat-Haruhi-Suzumiya"> 
+        <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjHaruhi.jpg" alt="Contributor 2" height="250" width="100%">
+        <br>
+        Chat凉宫春日是模仿凉宫春日等一系列动漫人物，使用近似语气、个性和剧情聊天的语言模型方案
       </a>
     </td>
     <td style="text-align:center; width:50%;" width="50%">
@@ -49,6 +51,16 @@
   </tr>
 
   <tr>
+    <td style="text-align:center; width:50%;" width="50%">
+      <b style="font-size:larger;">  骆驼QA </b>
+      <br>
+      <br>
+      <a href="https://github.com/LC1332/Luotuo-QA"> 
+      <img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/ProjQA.png" alt="Contributor 1" height="250" width="100%">
+      <br>
+      骆驼QA: Better Conversational Question Answering Model with Answer Completion
+      </a>
+    </td>
     <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 迷你骆驼 </b>
       <br>
@@ -58,6 +70,9 @@
         迷你骆驼:一系列蒸馏指令数据得到的中文语言模型
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 丝绸之路 </b>
       <br>
@@ -67,9 +82,6 @@
         丝绸之路: 构建中文大语言模型的数据基础
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> Vanilla 骆驼 </b>
       <br>
@@ -79,6 +91,9 @@
         骆驼: An Instruction-following Chinese Language model, LoRA tuning on LLaMA
       </a>
     </td>
+  </tr>
+
+  <tr>
     <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 骆驼先知 </b>
       <br>
@@ -86,10 +101,10 @@
         <img src="https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/figures/icon.png" alt="Contributor 2" height="250">
         <br>
         骆驼先知是模仿纪伯伦的《先知》进行哲学讨论。
-        这个项目包含了Andrew Ng吴恩达Prompt工程的笔记
+        项目包含了Andrew Ng吴恩达Prompt工程的笔记和LangChain的笔记
       </a>
     </td>
-    <!-- <td style="text-align:center; width:50%;">
+  <td style="text-align:center; width:50%;">
       <b style="font-size:larger;"> 丝绸魔法书 </b>
       <br>
       <a href="https://github.com/LC1332/Luotuo-Silk-Magic-Book"> 
@@ -97,7 +112,7 @@
         <br>
         丝绸魔法书记录了大语言模型的一些魔法提示词(prompt)。
       </a>
-    </td> -->
+    </td>
   </tr>
 
   <tr>
@@ -148,7 +163,8 @@
 
 ## 项目重要更新 \[ [...](https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/data/previous_news.md) \]
 
-[2023-05-22] 将目前发布的九个中文数据集总结在了 [丝绸之路](https://github.com/LC1332/Luotuo-Silk-Road)，包含问答指令，阅读理解和跨模态
+[2023-05-20] 发布项目[迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](https://github.com/LC1332/Mini-Luotuo),  3.5B小模型和测试代码 <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
 
 
 [2023-05-06] 升级了数据集批量翻译的脚本 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Chinese-LLM/blob/main/notebook/improvedTranslation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
@@ -156,8 +172,6 @@
 [2023-04-27] 尝试翻译了一下斯坦福25个Agents生成的Generative Agents的工作。[代码仓库](https://github.com/LC1332/Chinese-generative-agents)，colab链接 <a href="https://colab.research.google.com/github/LC1332/Chinese-generative-agents/blob/main/notebook/Chinese_story_turbo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 [2023-4-16] [骆驼嵌入](https://github.com/LC1332/Luotuo-Text-Embedding) 代码已经发布，可以用这个colab链接体验 <a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  可支持文本可视化，聚类，模糊搜索等应用
-
-[2023-3-27] 我们计划训练一个[**Chat哈利波特**](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们仅仅完成了初步的实验并实现了0.1版本的模型, 不过模型的效果不及我们的预期, 可以查看[这份报告](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md), 我们想寻找一个 **哈利波特的狂热粉丝同时又是高质量的Python程序员** 来参与到项目中，可以联系我们。
 
 
 <a name="quickstart"></a>
