@@ -239,6 +239,19 @@ Luotuo-0.3-Output: 华中师范大学在武汉市。
 
 </details>
 
+这个项目很快在三天之内获得了100个stars。不过这个时候我们发现唐杰老师的研究组已经发布了ChatGLM，那个时候GLM还没有对应的tuning代码。
+
+于是我们简单修改并且在
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_camelbell.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
+      <p> 如果你希望模型在中文上有更好的表现，建议使用 CamelBell(驼铃), 这个项目在中文基模型Chat-GLM-6B的基础上继续使用中文语料进行训练。 </p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -260,15 +273,6 @@ TODO: 这个section将有空的时候改为更详细的项目介绍，而项目i
 
 骆驼嵌入是我们从OpenAI蒸馏特征得到的BERT的文本嵌入模型。<a href="https://colab.research.google.com/github/LC1332/Luotuo-Text-Embedding/blob/main/notebook/Luotuo_Embedding_Visualization.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
-<table>
-  <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_camelbell.png" alt="Luotuo-Vanilla" width="160"></td>
-    <td>
-      <h2><a href="https://github.com/LC1332/CamelBell-Chinese-LoRA"> Cambell 驼铃 </a></h2>
-      <p> 如果你希望模型在中文上有更好的表现，建议使用 CamelBell(驼铃), 这个项目在中文基模型Chat-GLM-6B的基础上继续使用中文语料进行训练。 </p>
-    </td>
-  </tr>
-</table>
 
 在驼铃-B(CamelBell-B)中我们将训练一个[Chat哈利波特](https://github.com/LC1332/CamelBell-Chinese-LoRA/blob/main/data/HarryPotter/ShortReport.md)
 
