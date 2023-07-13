@@ -302,16 +302,6 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 [【开源骆驼】我们蒸馏了OpenAI的特征，并用它分析了周杰伦的歌词，还打算复现360的Demo](https://zhuanlan.zhihu.com/p/622433896)
 
-<table>
-  <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_embedding.png" alt="Luotuo-Embedding" width="160"></td>
-    <td>
-      <h2><a href="https://github.com/LC1332/Luotuo-Text-Embedding"> Luotuo Embedding 骆驼嵌入 </a></h2>
-      <p> 骆驼嵌入是一个文本嵌入模型，可以将长文本转化为1536维的向量，支持文本可视化、搜索、聚类、内容审核等下游业务。 </p>
-    </td>
-  </tr>
-</table>
-
 
 骆驼嵌入是一个非相关从业者关注比较少的项目。但是我们发现其实有很多水面一下的开发者在使用这个模型。LuotuoBert在huggingface的下载量一度达到了一个月一万三千多次。这显然不是我们自己开发的下载量能cover的。骆驼嵌入最近有胡婧训练了中模型，并且我们(陈舒年)打算再训一个英语的嵌入模型，这样可以做一些中英文的对齐。
 
@@ -329,7 +319,8 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
   </tr>
 </table>
 
-不过这个项目最近进入休眠状态。一个很有价值事情是在Luotuo-QA-B数据集上重新finetune一个ChatGLM2，并且集成接入langchain。应该会形成一个不错的本地知识库问答的系统。不过最近ChatHaruhi占用了李鲁鲁和冷子昂大多数的业余时间，所以这个事情就没人去lead了，如果你有能力和兴趣host这个项目，欢迎来联系我。
+不过这个项目最近进入休眠状态。一个很有价值事情是在Luotuo-QA-B数据集上重新finetune一个ChatGLM2，并且集成接入Langchain。应该会形成一个不错的本地知识库问答的系统。不过最近ChatHaruhi占用了李鲁鲁和冷子昂大多数的业余时间，所以这个事情就没人去lead了，如果你有能力和兴趣host这个项目，欢迎来联系我。
+
 
 
 
