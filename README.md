@@ -322,7 +322,56 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 不过这个项目最近进入休眠状态。一个很有价值事情是在Luotuo-QA-B数据集上重新finetune一个ChatGLM2，并且集成接入Langchain。应该会形成一个不错的本地知识库问答的系统。不过最近ChatHaruhi占用了李鲁鲁和冷子昂大多数的业余时间，所以这个事情就没人去lead了，如果你有能力和兴趣host这个项目，欢迎来联系我。
 
 
+需要注意的是，除了语言模型和训练本身，语言模型的prompt也是在最近几年出现的一类新的问题，或者甚至可以说是一种新的范式。
 
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Luotuo-Vanilla" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Luotuo-Silk-Magic-Book"> Silk Magic Book 丝绸魔法书 </a></h2>
+      <p> 丝绸魔法书记录了大语言模型的一些魔法提示词(prompt)。我们希望有一天，骆驼项目自己训练的语言模型，也能适配很复杂任务的prompt。  </p>
+    </td>
+  </tr>
+</table>
+
+让李鲁鲁非常惊讶的是，ChatGPT等超大模型中，往往能适配一些“超级prompt”，这些超级prompt其实很接近ChatGPT等这些模型的能力边界，李鲁鲁把这些prompt统一记录在了丝绸魔法书这个项目中。[【骆驼杂谈】让文心一言回答知乎问题，他高兴地喊出了“谢邀”](https://zhuanlan.zhihu.com/p/619269433)
+
+在这个时候李鲁鲁的学习习惯已经调整为，看到一个需要学习的项目就fork下来，然后进行翻译或者comments，形成自己的理解。这其实相比于过往读论文，再让其他人去跑代码的方法，要直接了许多。当然这也得益于colab和huggingFace这些快速开发工具的进展。我一直在构思一篇《这是一个发展越来越快的时代》，本来想在校庆前后写的，之后找个时间写吧。
+
+比如在看Stanford的Generative Agents的工作的时候，我们就可以顺手fork这个项目，[https://github.com/LC1332/Chinese-generative-agents](https://github.com/LC1332/Chinese-generative-agents) 并且进行一些翻译，就可以得到自己的结果。得益于计算机公共的底层和库，这种学习方式是非常高效的。
+
+[【开源骆驼】把斯坦福的25 ChatGPT玩游戏翻译成中文，佟湘玉与白展堂密谈了起来](https://zhuanlan.zhihu.com/p/625240760)
+
+在这个时期（5月初前后），吴恩达也放出了Prompting Engineering的课程。这个时候李鲁鲁注意到DataWhale翻译了这个课程。于是就在DataWhale的基础上fork了自己的版本，形成了[骆驼先知](https://github.com/LC1332/Prophet-Andrew-Ng)并且进行了很多有趣的实践。
+
+[【骆驼读论文】关于Andrew Ng的prompt工程课程的实践，为GPT编写更准确而多样的提示词](https://zhuanlan.zhihu.com/p/627134012)
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Prophet-Andrew-Ng/blob/main/figures/icon.png" alt="Luotuo-Embedding" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Prophet-Andrew-Ng"> 骆驼先知 </a></h2>
+      <p> 骆驼先知是模仿纪伯伦的《先知》进行哲学讨论。项目包含了李鲁鲁对于Prompt Engineering和LangChain的实践。 </p>
+    </td>
+  </tr>
+</table>
+
+骆驼先知其实是整个Prompt Engineering课程的作业之一。当然这个项目后来又叠加了LangChain相关的大量笔记，很多内容非常有启发性。当然整体还是先知更有趣一些，就用先知作为这个项目的名字了
+
+[【开源骆驼】上完吴恩达的提示词课程，我们复现了纪伯伦的《先知》，并和他讨论了加班、夜店和996](https://zhuanlan.zhihu.com/p/627628201)
+
+这其实是个很有意思的尝试，通过《先知》的26个故事，可以把先知的思想和价值观进行整体的复活。同样的思想能不能用到二次元人物中呢？于是李鲁鲁花一天半的时间，收集了凉宫春日38段语料。形成了凉宫春日的初步版本。
+
+<table>
+  <tr>
+    <td width= "165"><img src="https://github.com/LC1332/Chat-Haruhi-Suzumiya/blob/main/figures/haruhi_suzumiya_bondage_rp.jpg" alt="Chat_haruhi" width="160"></td>
+    <td>
+      <h2><a href="https://github.com/LC1332/Chat-Haruhi-Suzumiya"> Chat凉宫春日 </a></h2>
+      <p> Chat凉宫春日是模仿凉宫春日等一系列动漫人物，使用近似语气、个性和剧情聊天的语言模型。 </p>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -350,17 +399,6 @@ TODO: 这个section将有空的时候改为更详细的项目介绍，而项目i
   </tr>
 </table>
 
-
-
-<table>
-  <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_scroll.png" alt="Luotuo-Vanilla" width="160"></td>
-    <td>
-      <h2><a href="https://github.com/LC1332/Luotuo-Silk-Magic-Book"> Silk Magic Book 丝绸魔法书 </a></h2>
-      <p> 丝绸魔法书记录了大语言模型的一些魔法提示词(prompt)。我们希望有一天，骆驼项目自己训练的语言模型，也能适配很复杂任务的prompt。  </p>
-    </td>
-  </tr>
-</table>
 
 
 
