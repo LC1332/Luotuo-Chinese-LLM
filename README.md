@@ -373,44 +373,12 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
   </tr>
 </table>
 
+在儿童节前后DataWhale学习微信群的测试中，大家纷纷表示ChatHaruhi的效果很好。于是我们在DataWhale和高天学长的粉丝群进行了成员的招募。本着"Deadline就是生产力，所以更多Deadline,更多生产力"的原则。ChatHaruhi的工作组先后完成了DataWhale的作业(二等奖 top3)，中科院心理所的特定人格文本生成(二等奖 top3)和魔搭社区hackathon的比赛(二等奖 top3)。
 
----
+[【骆驼开源】Chat凉宫春日，将京阿尼的人物带到现实](https://zhuanlan.zhihu.com/p/636381450)
 
+虽然不知道为什么从来没有拿过第一，但显然拿第一并不是一件非常重要的事情。这个项目我们准备在扩充到30个人物之后，做补充实验并形成一个技术report挂到arxiv上。其实到Chat凉宫春日已经是一个比较成熟的语言模型项目，包含了完整的prompting、记忆库、数据生成和微调的流程。这个应该会形成垂直应用的语言模型的标准范式之一，我看到有人逛WAIC的截图里面还有人在教这个笔记。并且在7月初魔搭比赛的时候，我们已经验证了角色扮演这个任务可以被合理降解到7B规模的模型，这其实是一个很不错的结论。
 
-
-TODO: 这个section将有空的时候改为更详细的项目介绍，而项目icon将全部移动到上面去。
-
-我们强烈建议首先先在Colab测试我们的代码，再考虑本地部署。
-
-
-
-
-
-
-
-
-<table>
-  <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/idle_image.png" alt="Luotuo-Paper-Reading" width="160"></td>
-    <td>
-      <h2><a href="https://github.com/LC1332/Luotuo-Paper-Reading"> Paper Reading 骆驼读论文 </a></h2>
-      <p> 在构建骆驼项目中，阅读的一些关于大语言模型，或者其他科研进展的论文 </p>
-    </td>
-  </tr>
-</table>
-
-
-
-
-<table>
-  <tr>
-    <td width= "165"><img src="https://github.com/LC1332/Luotuo-Chinese-LLM/blob/main/image/icon_silk_road.png" alt="Luotuo-Vanilla" width="160"></td>
-    <td>
-      <h2><a href="https://github.com/LC1332/Chinese-alpaca-lora"> Silk Road 丝绸之路 </a></h2>
-      <p> Silk Road (丝绸之路) will be the model bank of project Luotuo. </p>
-    </td>
-  </tr>
-</table>
 
 
 <a name="sponsorship"></a>
