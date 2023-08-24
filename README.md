@@ -404,15 +404,17 @@ Answer: 男子网坛历史性一刻!中国小将吴易昺逆转击败赛会5号�
 
 ## 赞助(Sponsorships)
 
+
 Top 3 Sponsors
 
 |Time    | Sponsor     | Amount |
 | --- | --- | --- | 
 | 2023/6/20| Xiuhan | 3000 |
 | 2023/3/28 | 张** | 2000 |
-| 2023/4/2等| Tand| 1080| 
+| 2023/4/2等| Tand| 1580|
 
-balance =  9003  now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+
+balance =  5293.03  now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
