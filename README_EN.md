@@ -196,7 +196,7 @@ We plan to use this Luotuo project as the git repository for the entire Chinese 
 Please cite the repo if you use the data or code in this repo.
 
 ```
-@misc{alpaca,
+@misc{luotuo,
   author={Ziang Leng, Qiyuan Chen and Cheng Li},
   title = {Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA},
   year = {2023},

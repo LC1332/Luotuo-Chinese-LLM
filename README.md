@@ -575,7 +575,7 @@ All funds will be used for data annotation, purchase of training computing power
 Please cite the repo if you use the data or code in this repo.
 
 ```
-@misc{alpaca,
+@misc{luotuo,
   author={Ziang Leng, Qiyuan Chen and Cheng Li},
   title = {Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA},
   year = {2023},
