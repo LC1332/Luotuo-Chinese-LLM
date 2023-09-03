@@ -414,7 +414,7 @@ Top 3 Sponsors
 | 2023/4/2等| Tand| 1580|
 
 
-balance =  5293.03  now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
+balance =  12653.03  now. Detailed balance see in [sponsorship_and_balance.md](data/Sponsorship_and_balance.md)
 
 这原本是我们的一个作业项目，我们原本计划训练到1.0为止。但是社区的热情超过了我们的想象。如果您愿意赞助我们的项目，可以
 
